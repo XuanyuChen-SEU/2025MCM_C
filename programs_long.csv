@@ -1,0 +1,2131 @@
+Sport,Discipline,Code,Sports Governing Body,Year,Event_Count
+Aquatics,Artistic Swimming,SWA,World Aquatics,1896,0
+Aquatics,Diving,DIV,World Aquatics,1896,0
+Aquatics,Marathon Swimming,OWS,World Aquatics,1896,0
+Aquatics,Swimming,SWM,World Aquatics,1896,4
+Aquatics,Water Polo,WPO,World Aquatics,1896,0
+Archery,Archery,ARC,World Archery,1896,0
+Athletics,Athletics,ATH,World Athletics,1896,12
+Badminton,Badminton,BDM,BWF,1896,0
+Baseball?and Softball,Baseball,BSB,WBSC,1896,0
+Baseball?and Softball,Softball,SBL,WBSC,1896,0
+Basketball,3x3,BK3,FIBA,1896,0
+Basketball,Basketball,BKB,FIBA,1896,0
+Basque Pelota,Basque Pelota,PEL,FIPV,1896,0
+Boxing,Boxing,BOX,No body recognised AIBA/IBA,1896,0
+Breaking,Breaking,BKG,WDSF,1896,0
+Canoeing,Sprint,CSP,ICF,1896,0
+Canoeing,Slalom,CSL,ICF,1896,0
+Cricket,Cricket,CKT,ICC,1896,0
+Croquet,Croquet,CQT,WCF,1896,0
+Cycling,BMX Freestyle,BMF,UCI,1896,0
+Cycling,BMX Racing,BMX,UCI,1896,0
+Cycling,Mountain Bike,MTB,UCI,1896,0
+Cycling,Road,CRD,UCI,1896,1
+Cycling,Track,CTR,UCI,1896,5
+Equestrian,Dressage,EDR,FEI,1896,0
+Equestrian,Eventing,EVE,FEI,1896,0
+Equestrian,Jumping,EJP,FEI,1896,0
+Equestrian,Vaulting,EVL,FEI,1896,0
+Equestrian,Driving,EDV,FEI,1896,0
+Fencing,Fencing,FEN,FIE,1896,3
+Field hockey,Field hockey,HOC,FIH,1896,0
+Flag football,Flag football,AFB,IFAF,1896,0
+Football,Football,FBL,FIFA,1896,0
+Golf,Golf,GLF,IGF,1896,0
+Gymnastics,Artistic,GAR,FIG,1896,8
+Gymnastics,Rhythmic,GRY,FIG,1896,0
+Gymnastics,Trampoline,GTR,FIG,1896,0
+Handball,Indoor,HBL,IHF,1896,0
+Handball,Field,HBL,IHF,1896,0
+Jeu de Paume,Jeu de Paume,?,?,1896,0
+Judo,Judo,JUD,IJF,1896,0
+Karate,Karate,KTE,WKF,1896,0
+Lacrosse,Sixes,LAX,WL,1896,0
+Lacrosse,Field,LAX,WL,1896,0
+Modern Pentathlon,,MPN,UIPM,1896,0
+Polo,Polo,POL,FIP,1896,0
+Rackets,Rackets,RQT,?,1896,0
+Roque,Roque,?,?,1896,0
+Rowing,Coastal,ROC,World Rowing,1896,0
+Rowing,Rowing,ROW,World Rowing,1896,0
+Rugby,Sevens,RU7,World Rugby,1896,0
+Rugby,Union,RUG,World Rugby,1896,0
+Sailing,Sailing,SAL,World Sailing,1896,0
+Shooting,Shooting,SHO,ISSF,1896,5
+Skateboarding,Skateboarding,SKB,World Skate,1896,0
+Sport Climbing,Sport Climbing,CLB,IFSC,1896,0
+Squash,Squash,SQU,WSF,1896,0
+Surfing,Surfing,SRF,ISA,1896,0
+Table Tennis,Table Tennis,TTE,ITTF,1896,0
+Taekwondo,Taekwondo,TKW,World Taekwondo,1896,0
+Tennis,Tennis,TEN,ITF,1896,2
+Triathlon,Triathlon,TRI,World Triathlon,1896,0
+Tug of War,Tug of War,TOW,TWIF,1896,0
+Volleyball,Beach,VBV,FIVB,1896,0
+Volleyball,Indoor,VVO,FIVB,1896,0
+Water Motorsports,,PBT,UIM,1896,0
+Weightlifting,Weightlifting,WLF,IWF,1896,2
+Wrestling,Freestyle,WRF,UWW,1896,0
+Wrestling,Greco-Roman,WRG,UWW,1896,1
+Skating,Figure,FSK,ISU,1896,0
+Ice Hockey,Ice Hockey,IHO,IIHF,1896,0
+Aquatics,Artistic Swimming,SWA,World Aquatics,1900,0
+Aquatics,Diving,DIV,World Aquatics,1900,0
+Aquatics,Marathon Swimming,OWS,World Aquatics,1900,0
+Aquatics,Swimming,SWM,World Aquatics,1900,7
+Aquatics,Water Polo,WPO,World Aquatics,1900,1
+Archery,Archery,ARC,World Archery,1900,7
+Athletics,Athletics,ATH,World Athletics,1900,23
+Badminton,Badminton,BDM,BWF,1900,0
+Baseball?and Softball,Baseball,BSB,WBSC,1900,0
+Baseball?and Softball,Softball,SBL,WBSC,1900,0
+Basketball,3x3,BK3,FIBA,1900,0
+Basketball,Basketball,BKB,FIBA,1900,0
+Basque Pelota,Basque Pelota,PEL,FIPV,1900,1
+Boxing,Boxing,BOX,No body recognised AIBA/IBA,1900,0
+Breaking,Breaking,BKG,WDSF,1900,0
+Canoeing,Sprint,CSP,ICF,1900,0
+Canoeing,Slalom,CSL,ICF,1900,0
+Cricket,Cricket,CKT,ICC,1900,1
+Croquet,Croquet,CQT,WCF,1900,3
+Cycling,BMX Freestyle,BMF,UCI,1900,0
+Cycling,BMX Racing,BMX,UCI,1900,0
+Cycling,Mountain Bike,MTB,UCI,1900,0
+Cycling,Road,CRD,UCI,1900,0
+Cycling,Track,CTR,UCI,1900,3
+Equestrian,Dressage,EDR,FEI,1900,0
+Equestrian,Eventing,EVE,FEI,1900,0
+Equestrian,Jumping,EJP,FEI,1900,3
+Equestrian,Vaulting,EVL,FEI,1900,0
+Equestrian,Driving,EDV,FEI,1900,2
+Fencing,Fencing,FEN,FIE,1900,7
+Field hockey,Field hockey,HOC,FIH,1900,0
+Flag football,Flag football,AFB,IFAF,1900,0
+Football,Football,FBL,FIFA,1900,1
+Golf,Golf,GLF,IGF,1900,2
+Gymnastics,Artistic,GAR,FIG,1900,1
+Gymnastics,Rhythmic,GRY,FIG,1900,0
+Gymnastics,Trampoline,GTR,FIG,1900,0
+Handball,Indoor,HBL,IHF,1900,0
+Handball,Field,HBL,IHF,1900,0
+Jeu de Paume,Jeu de Paume,?,?,1900,0
+Judo,Judo,JUD,IJF,1900,0
+Karate,Karate,KTE,WKF,1900,0
+Lacrosse,Sixes,LAX,WL,1900,0
+Lacrosse,Field,LAX,WL,1900,0
+Modern Pentathlon,,MPN,UIPM,1900,0
+Polo,Polo,POL,FIP,1900,1
+Rackets,Rackets,RQT,?,1900,0
+Roque,Roque,?,?,1900,0
+Rowing,Coastal,ROC,World Rowing,1900,0
+Rowing,Rowing,ROW,World Rowing,1900,5
+Rugby,Sevens,RU7,World Rugby,1900,0
+Rugby,Union,RUG,World Rugby,1900,1
+Sailing,Sailing,SAL,World Sailing,1900,13
+Shooting,Shooting,SHO,ISSF,1900,8
+Skateboarding,Skateboarding,SKB,World Skate,1900,0
+Sport Climbing,Sport Climbing,CLB,IFSC,1900,0
+Squash,Squash,SQU,WSF,1900,0
+Surfing,Surfing,SRF,ISA,1900,0
+Table Tennis,Table Tennis,TTE,ITTF,1900,0
+Taekwondo,Taekwondo,TKW,World Taekwondo,1900,0
+Tennis,Tennis,TEN,ITF,1900,4
+Triathlon,Triathlon,TRI,World Triathlon,1900,0
+Tug of War,Tug of War,TOW,TWIF,1900,1
+Volleyball,Beach,VBV,FIVB,1900,0
+Volleyball,Indoor,VVO,FIVB,1900,0
+Water Motorsports,,PBT,UIM,1900,0
+Weightlifting,Weightlifting,WLF,IWF,1900,2
+Wrestling,Freestyle,WRF,UWW,1900,0
+Wrestling,Greco-Roman,WRG,UWW,1900,0
+Skating,Figure,FSK,ISU,1900,0
+Ice Hockey,Ice Hockey,IHO,IIHF,1900,0
+Aquatics,Artistic Swimming,SWA,World Aquatics,1904,0
+Aquatics,Diving,DIV,World Aquatics,1904,2
+Aquatics,Marathon Swimming,OWS,World Aquatics,1904,0
+Aquatics,Swimming,SWM,World Aquatics,1904,9
+Aquatics,Water Polo,WPO,World Aquatics,1904,1
+Archery,Archery,ARC,World Archery,1904,6
+Athletics,Athletics,ATH,World Athletics,1904,25
+Badminton,Badminton,BDM,BWF,1904,0
+Baseball?and Softball,Baseball,BSB,WBSC,1904,0
+Baseball?and Softball,Softball,SBL,WBSC,1904,0
+Basketball,3x3,BK3,FIBA,1904,0
+Basketball,Basketball,BKB,FIBA,1904,0
+Basque Pelota,Basque Pelota,PEL,FIPV,1904,0
+Boxing,Boxing,BOX,No body recognised AIBA/IBA,1904,7
+Breaking,Breaking,BKG,WDSF,1904,0
+Canoeing,Sprint,CSP,ICF,1904,0
+Canoeing,Slalom,CSL,ICF,1904,0
+Cricket,Cricket,CKT,ICC,1904,0
+Croquet,Croquet,CQT,WCF,1904,0
+Cycling,BMX Freestyle,BMF,UCI,1904,0
+Cycling,BMX Racing,BMX,UCI,1904,0
+Cycling,Mountain Bike,MTB,UCI,1904,0
+Cycling,Road,CRD,UCI,1904,0
+Cycling,Track,CTR,UCI,1904,7
+Equestrian,Dressage,EDR,FEI,1904,0
+Equestrian,Eventing,EVE,FEI,1904,0
+Equestrian,Jumping,EJP,FEI,1904,0
+Equestrian,Vaulting,EVL,FEI,1904,0
+Equestrian,Driving,EDV,FEI,1904,0
+Fencing,Fencing,FEN,FIE,1904,5
+Field hockey,Field hockey,HOC,FIH,1904,0
+Flag football,Flag football,AFB,IFAF,1904,0
+Football,Football,FBL,FIFA,1904,1
+Golf,Golf,GLF,IGF,1904,2
+Gymnastics,Artistic,GAR,FIG,1904,11
+Gymnastics,Rhythmic,GRY,FIG,1904,0
+Gymnastics,Trampoline,GTR,FIG,1904,0
+Handball,Indoor,HBL,IHF,1904,0
+Handball,Field,HBL,IHF,1904,0
+Jeu de Paume,Jeu de Paume,?,?,1904,0
+Judo,Judo,JUD,IJF,1904,0
+Karate,Karate,KTE,WKF,1904,0
+Lacrosse,Sixes,LAX,WL,1904,0
+Lacrosse,Field,LAX,WL,1904,1
+Modern Pentathlon,,MPN,UIPM,1904,0
+Polo,Polo,POL,FIP,1904,0
+Rackets,Rackets,RQT,?,1904,0
+Roque,Roque,?,?,1904,1
+Rowing,Coastal,ROC,World Rowing,1904,0
+Rowing,Rowing,ROW,World Rowing,1904,5
+Rugby,Sevens,RU7,World Rugby,1904,0
+Rugby,Union,RUG,World Rugby,1904,0
+Sailing,Sailing,SAL,World Sailing,1904,0
+Shooting,Shooting,SHO,ISSF,1904,0
+Skateboarding,Skateboarding,SKB,World Skate,1904,0
+Sport Climbing,Sport Climbing,CLB,IFSC,1904,0
+Squash,Squash,SQU,WSF,1904,0
+Surfing,Surfing,SRF,ISA,1904,0
+Table Tennis,Table Tennis,TTE,ITTF,1904,0
+Taekwondo,Taekwondo,TKW,World Taekwondo,1904,0
+Tennis,Tennis,TEN,ITF,1904,2
+Triathlon,Triathlon,TRI,World Triathlon,1904,0
+Tug of War,Tug of War,TOW,TWIF,1904,1
+Volleyball,Beach,VBV,FIVB,1904,0
+Volleyball,Indoor,VVO,FIVB,1904,0
+Water Motorsports,,PBT,UIM,1904,0
+Weightlifting,Weightlifting,WLF,IWF,1904,2
+Wrestling,Freestyle,WRF,UWW,1904,7
+Wrestling,Greco-Roman,WRG,UWW,1904,0
+Skating,Figure,FSK,ISU,1904,0
+Ice Hockey,Ice Hockey,IHO,IIHF,1904,0
+Aquatics,Artistic Swimming,SWA,World Aquatics,1908,0
+Aquatics,Diving,DIV,World Aquatics,1908,2
+Aquatics,Marathon Swimming,OWS,World Aquatics,1908,0
+Aquatics,Swimming,SWM,World Aquatics,1908,6
+Aquatics,Water Polo,WPO,World Aquatics,1908,1
+Archery,Archery,ARC,World Archery,1908,3
+Athletics,Athletics,ATH,World Athletics,1908,26
+Badminton,Badminton,BDM,BWF,1908,0
+Baseball?and Softball,Baseball,BSB,WBSC,1908,0
+Baseball?and Softball,Softball,SBL,WBSC,1908,0
+Basketball,3x3,BK3,FIBA,1908,0
+Basketball,Basketball,BKB,FIBA,1908,0
+Basque Pelota,Basque Pelota,PEL,FIPV,1908,0
+Boxing,Boxing,BOX,No body recognised AIBA/IBA,1908,5
+Breaking,Breaking,BKG,WDSF,1908,0
+Canoeing,Sprint,CSP,ICF,1908,0
+Canoeing,Slalom,CSL,ICF,1908,0
+Cricket,Cricket,CKT,ICC,1908,0
+Croquet,Croquet,CQT,WCF,1908,0
+Cycling,BMX Freestyle,BMF,UCI,1908,0
+Cycling,BMX Racing,BMX,UCI,1908,0
+Cycling,Mountain Bike,MTB,UCI,1908,0
+Cycling,Road,CRD,UCI,1908,0
+Cycling,Track,CTR,UCI,1908,7
+Equestrian,Dressage,EDR,FEI,1908,0
+Equestrian,Eventing,EVE,FEI,1908,0
+Equestrian,Jumping,EJP,FEI,1908,0
+Equestrian,Vaulting,EVL,FEI,1908,0
+Equestrian,Driving,EDV,FEI,1908,0
+Fencing,Fencing,FEN,FIE,1908,4
+Field hockey,Field hockey,HOC,FIH,1908,1
+Flag football,Flag football,AFB,IFAF,1908,0
+Football,Football,FBL,FIFA,1908,1
+Golf,Golf,GLF,IGF,1908,0
+Gymnastics,Artistic,GAR,FIG,1908,2
+Gymnastics,Rhythmic,GRY,FIG,1908,0
+Gymnastics,Trampoline,GTR,FIG,1908,0
+Handball,Indoor,HBL,IHF,1908,0
+Handball,Field,HBL,IHF,1908,0
+Jeu de Paume,Jeu de Paume,?,?,1908,1
+Judo,Judo,JUD,IJF,1908,0
+Karate,Karate,KTE,WKF,1908,0
+Lacrosse,Sixes,LAX,WL,1908,0
+Lacrosse,Field,LAX,WL,1908,1
+Modern Pentathlon,,MPN,UIPM,1908,0
+Polo,Polo,POL,FIP,1908,1
+Rackets,Rackets,RQT,?,1908,2
+Roque,Roque,?,?,1908,0
+Rowing,Coastal,ROC,World Rowing,1908,0
+Rowing,Rowing,ROW,World Rowing,1908,4
+Rugby,Sevens,RU7,World Rugby,1908,0
+Rugby,Union,RUG,World Rugby,1908,1
+Sailing,Sailing,SAL,World Sailing,1908,4
+Shooting,Shooting,SHO,ISSF,1908,15
+Skateboarding,Skateboarding,SKB,World Skate,1908,0
+Sport Climbing,Sport Climbing,CLB,IFSC,1908,0
+Squash,Squash,SQU,WSF,1908,0
+Surfing,Surfing,SRF,ISA,1908,0
+Table Tennis,Table Tennis,TTE,ITTF,1908,0
+Taekwondo,Taekwondo,TKW,World Taekwondo,1908,0
+Tennis,Tennis,TEN,ITF,1908,6
+Triathlon,Triathlon,TRI,World Triathlon,1908,0
+Tug of War,Tug of War,TOW,TWIF,1908,1
+Volleyball,Beach,VBV,FIVB,1908,0
+Volleyball,Indoor,VVO,FIVB,1908,0
+Water Motorsports,,PBT,UIM,1908,3
+Weightlifting,Weightlifting,WLF,IWF,1908,0
+Wrestling,Freestyle,WRF,UWW,1908,5
+Wrestling,Greco-Roman,WRG,UWW,1908,4
+Skating,Figure,FSK,ISU,1908,4
+Ice Hockey,Ice Hockey,IHO,IIHF,1908,0
+Aquatics,Artistic Swimming,SWA,World Aquatics,1912,0
+Aquatics,Diving,DIV,World Aquatics,1912,4
+Aquatics,Marathon Swimming,OWS,World Aquatics,1912,0
+Aquatics,Swimming,SWM,World Aquatics,1912,9
+Aquatics,Water Polo,WPO,World Aquatics,1912,1
+Archery,Archery,ARC,World Archery,1912,0
+Athletics,Athletics,ATH,World Athletics,1912,30
+Badminton,Badminton,BDM,BWF,1912,0
+Baseball?and Softball,Baseball,BSB,WBSC,1912,0
+Baseball?and Softball,Softball,SBL,WBSC,1912,0
+Basketball,3x3,BK3,FIBA,1912,0
+Basketball,Basketball,BKB,FIBA,1912,0
+Basque Pelota,Basque Pelota,PEL,FIPV,1912,0
+Boxing,Boxing,BOX,No body recognised AIBA/IBA,1912,0
+Breaking,Breaking,BKG,WDSF,1912,0
+Canoeing,Sprint,CSP,ICF,1912,0
+Canoeing,Slalom,CSL,ICF,1912,0
+Cricket,Cricket,CKT,ICC,1912,0
+Croquet,Croquet,CQT,WCF,1912,0
+Cycling,BMX Freestyle,BMF,UCI,1912,0
+Cycling,BMX Racing,BMX,UCI,1912,0
+Cycling,Mountain Bike,MTB,UCI,1912,0
+Cycling,Road,CRD,UCI,1912,2
+Cycling,Track,CTR,UCI,1912,0
+Equestrian,Dressage,EDR,FEI,1912,1
+Equestrian,Eventing,EVE,FEI,1912,2
+Equestrian,Jumping,EJP,FEI,1912,2
+Equestrian,Vaulting,EVL,FEI,1912,0
+Equestrian,Driving,EDV,FEI,1912,0
+Fencing,Fencing,FEN,FIE,1912,5
+Field hockey,Field hockey,HOC,FIH,1912,0
+Flag football,Flag football,AFB,IFAF,1912,0
+Football,Football,FBL,FIFA,1912,1
+Golf,Golf,GLF,IGF,1912,0
+Gymnastics,Artistic,GAR,FIG,1912,4
+Gymnastics,Rhythmic,GRY,FIG,1912,0
+Gymnastics,Trampoline,GTR,FIG,1912,0
+Handball,Indoor,HBL,IHF,1912,0
+Handball,Field,HBL,IHF,1912,0
+Jeu de Paume,Jeu de Paume,?,?,1912,0
+Judo,Judo,JUD,IJF,1912,0
+Karate,Karate,KTE,WKF,1912,0
+Lacrosse,Sixes,LAX,WL,1912,0
+Lacrosse,Field,LAX,WL,1912,0
+Modern Pentathlon,,MPN,UIPM,1912,1
+Polo,Polo,POL,FIP,1912,0
+Rackets,Rackets,RQT,?,1912,0
+Roque,Roque,?,?,1912,0
+Rowing,Coastal,ROC,World Rowing,1912,0
+Rowing,Rowing,ROW,World Rowing,1912,4
+Rugby,Sevens,RU7,World Rugby,1912,0
+Rugby,Union,RUG,World Rugby,1912,0
+Sailing,Sailing,SAL,World Sailing,1912,4
+Shooting,Shooting,SHO,ISSF,1912,18
+Skateboarding,Skateboarding,SKB,World Skate,1912,0
+Sport Climbing,Sport Climbing,CLB,IFSC,1912,0
+Squash,Squash,SQU,WSF,1912,0
+Surfing,Surfing,SRF,ISA,1912,0
+Table Tennis,Table Tennis,TTE,ITTF,1912,0
+Taekwondo,Taekwondo,TKW,World Taekwondo,1912,0
+Tennis,Tennis,TEN,ITF,1912,8
+Triathlon,Triathlon,TRI,World Triathlon,1912,0
+Tug of War,Tug of War,TOW,TWIF,1912,1
+Volleyball,Beach,VBV,FIVB,1912,0
+Volleyball,Indoor,VVO,FIVB,1912,0
+Water Motorsports,,PBT,UIM,1912,0
+Weightlifting,Weightlifting,WLF,IWF,1912,0
+Wrestling,Freestyle,WRF,UWW,1912,0
+Wrestling,Greco-Roman,WRG,UWW,1912,5
+Skating,Figure,FSK,ISU,1912,0
+Ice Hockey,Ice Hockey,IHO,IIHF,1912,0
+Aquatics,Artistic Swimming,SWA,World Aquatics,1920,0
+Aquatics,Diving,DIV,World Aquatics,1920,5
+Aquatics,Marathon Swimming,OWS,World Aquatics,1920,0
+Aquatics,Swimming,SWM,World Aquatics,1920,10
+Aquatics,Water Polo,WPO,World Aquatics,1920,1
+Archery,Archery,ARC,World Archery,1920,10
+Athletics,Athletics,ATH,World Athletics,1920,29
+Badminton,Badminton,BDM,BWF,1920,0
+Baseball?and Softball,Baseball,BSB,WBSC,1920,0
+Baseball?and Softball,Softball,SBL,WBSC,1920,0
+Basketball,3x3,BK3,FIBA,1920,0
+Basketball,Basketball,BKB,FIBA,1920,0
+Basque Pelota,Basque Pelota,PEL,FIPV,1920,0
+Boxing,Boxing,BOX,No body recognised AIBA/IBA,1920,8
+Breaking,Breaking,BKG,WDSF,1920,0
+Canoeing,Sprint,CSP,ICF,1920,0
+Canoeing,Slalom,CSL,ICF,1920,0
+Cricket,Cricket,CKT,ICC,1920,0
+Croquet,Croquet,CQT,WCF,1920,0
+Cycling,BMX Freestyle,BMF,UCI,1920,0
+Cycling,BMX Racing,BMX,UCI,1920,0
+Cycling,Mountain Bike,MTB,UCI,1920,0
+Cycling,Road,CRD,UCI,1920,2
+Cycling,Track,CTR,UCI,1920,4
+Equestrian,Dressage,EDR,FEI,1920,1
+Equestrian,Eventing,EVE,FEI,1920,2
+Equestrian,Jumping,EJP,FEI,1920,2
+Equestrian,Vaulting,EVL,FEI,1920,2
+Equestrian,Driving,EDV,FEI,1920,0
+Fencing,Fencing,FEN,FIE,1920,6
+Field hockey,Field hockey,HOC,FIH,1920,1
+Flag football,Flag football,AFB,IFAF,1920,0
+Football,Football,FBL,FIFA,1920,1
+Golf,Golf,GLF,IGF,1920,0
+Gymnastics,Artistic,GAR,FIG,1920,4
+Gymnastics,Rhythmic,GRY,FIG,1920,0
+Gymnastics,Trampoline,GTR,FIG,1920,0
+Handball,Indoor,HBL,IHF,1920,0
+Handball,Field,HBL,IHF,1920,0
+Jeu de Paume,Jeu de Paume,?,?,1920,0
+Judo,Judo,JUD,IJF,1920,0
+Karate,Karate,KTE,WKF,1920,0
+Lacrosse,Sixes,LAX,WL,1920,0
+Lacrosse,Field,LAX,WL,1920,0
+Modern Pentathlon,,MPN,UIPM,1920,1
+Polo,Polo,POL,FIP,1920,1
+Rackets,Rackets,RQT,?,1920,0
+Roque,Roque,?,?,1920,0
+Rowing,Coastal,ROC,World Rowing,1920,0
+Rowing,Rowing,ROW,World Rowing,1920,5
+Rugby,Sevens,RU7,World Rugby,1920,0
+Rugby,Union,RUG,World Rugby,1920,1
+Sailing,Sailing,SAL,World Sailing,1920,14
+Shooting,Shooting,SHO,ISSF,1920,21
+Skateboarding,Skateboarding,SKB,World Skate,1920,0
+Sport Climbing,Sport Climbing,CLB,IFSC,1920,0
+Squash,Squash,SQU,WSF,1920,0
+Surfing,Surfing,SRF,ISA,1920,0
+Table Tennis,Table Tennis,TTE,ITTF,1920,0
+Taekwondo,Taekwondo,TKW,World Taekwondo,1920,0
+Tennis,Tennis,TEN,ITF,1920,5
+Triathlon,Triathlon,TRI,World Triathlon,1920,0
+Tug of War,Tug of War,TOW,TWIF,1920,1
+Volleyball,Beach,VBV,FIVB,1920,0
+Volleyball,Indoor,VVO,FIVB,1920,0
+Water Motorsports,,PBT,UIM,1920,0
+Weightlifting,Weightlifting,WLF,IWF,1920,5
+Wrestling,Freestyle,WRF,UWW,1920,5
+Wrestling,Greco-Roman,WRG,UWW,1920,5
+Skating,Figure,FSK,ISU,1920,3
+Ice Hockey,Ice Hockey,IHO,IIHF,1920,1
+Aquatics,Artistic Swimming,SWA,World Aquatics,1924,0
+Aquatics,Diving,DIV,World Aquatics,1924,5
+Aquatics,Marathon Swimming,OWS,World Aquatics,1924,0
+Aquatics,Swimming,SWM,World Aquatics,1924,11
+Aquatics,Water Polo,WPO,World Aquatics,1924,1
+Archery,Archery,ARC,World Archery,1924,0
+Athletics,Athletics,ATH,World Athletics,1924,27
+Badminton,Badminton,BDM,BWF,1924,0
+Baseball?and Softball,Baseball,BSB,WBSC,1924,0
+Baseball?and Softball,Softball,SBL,WBSC,1924,0
+Basketball,3x3,BK3,FIBA,1924,0
+Basketball,Basketball,BKB,FIBA,1924,0
+Basque Pelota,Basque Pelota,PEL,FIPV,1924,0
+Boxing,Boxing,BOX,No body recognised AIBA/IBA,1924,8
+Breaking,Breaking,BKG,WDSF,1924,0
+Canoeing,Sprint,CSP,ICF,1924,0
+Canoeing,Slalom,CSL,ICF,1924,0
+Cricket,Cricket,CKT,ICC,1924,0
+Croquet,Croquet,CQT,WCF,1924,0
+Cycling,BMX Freestyle,BMF,UCI,1924,0
+Cycling,BMX Racing,BMX,UCI,1924,0
+Cycling,Mountain Bike,MTB,UCI,1924,0
+Cycling,Road,CRD,UCI,1924,2
+Cycling,Track,CTR,UCI,1924,4
+Equestrian,Dressage,EDR,FEI,1924,1
+Equestrian,Eventing,EVE,FEI,1924,2
+Equestrian,Jumping,EJP,FEI,1924,2
+Equestrian,Vaulting,EVL,FEI,1924,0
+Equestrian,Driving,EDV,FEI,1924,0
+Fencing,Fencing,FEN,FIE,1924,7
+Field hockey,Field hockey,HOC,FIH,1924,0
+Flag football,Flag football,AFB,IFAF,1924,0
+Football,Football,FBL,FIFA,1924,1
+Golf,Golf,GLF,IGF,1924,0
+Gymnastics,Artistic,GAR,FIG,1924,9
+Gymnastics,Rhythmic,GRY,FIG,1924,0
+Gymnastics,Trampoline,GTR,FIG,1924,0
+Handball,Indoor,HBL,IHF,1924,0
+Handball,Field,HBL,IHF,1924,0
+Jeu de Paume,Jeu de Paume,?,?,1924,0
+Judo,Judo,JUD,IJF,1924,0
+Karate,Karate,KTE,WKF,1924,0
+Lacrosse,Sixes,LAX,WL,1924,0
+Lacrosse,Field,LAX,WL,1924,0
+Modern Pentathlon,,MPN,UIPM,1924,1
+Polo,Polo,POL,FIP,1924,1
+Rackets,Rackets,RQT,?,1924,0
+Roque,Roque,?,?,1924,0
+Rowing,Coastal,ROC,World Rowing,1924,0
+Rowing,Rowing,ROW,World Rowing,1924,7
+Rugby,Sevens,RU7,World Rugby,1924,0
+Rugby,Union,RUG,World Rugby,1924,1
+Sailing,Sailing,SAL,World Sailing,1924,3
+Shooting,Shooting,SHO,ISSF,1924,10
+Skateboarding,Skateboarding,SKB,World Skate,1924,0
+Sport Climbing,Sport Climbing,CLB,IFSC,1924,0
+Squash,Squash,SQU,WSF,1924,0
+Surfing,Surfing,SRF,ISA,1924,0
+Table Tennis,Table Tennis,TTE,ITTF,1924,0
+Taekwondo,Taekwondo,TKW,World Taekwondo,1924,0
+Tennis,Tennis,TEN,ITF,1924,5
+Triathlon,Triathlon,TRI,World Triathlon,1924,0
+Tug of War,Tug of War,TOW,TWIF,1924,0
+Volleyball,Beach,VBV,FIVB,1924,0
+Volleyball,Indoor,VVO,FIVB,1924,0
+Water Motorsports,,PBT,UIM,1924,0
+Weightlifting,Weightlifting,WLF,IWF,1924,5
+Wrestling,Freestyle,WRF,UWW,1924,7
+Wrestling,Greco-Roman,WRG,UWW,1924,6
+Skating,Figure,FSK,ISU,1924,0
+Ice Hockey,Ice Hockey,IHO,IIHF,1924,0
+Aquatics,Artistic Swimming,SWA,World Aquatics,1928,0
+Aquatics,Diving,DIV,World Aquatics,1928,4
+Aquatics,Marathon Swimming,OWS,World Aquatics,1928,0
+Aquatics,Swimming,SWM,World Aquatics,1928,11
+Aquatics,Water Polo,WPO,World Aquatics,1928,1
+Archery,Archery,ARC,World Archery,1928,0
+Athletics,Athletics,ATH,World Athletics,1928,27
+Badminton,Badminton,BDM,BWF,1928,0
+Baseball?and Softball,Baseball,BSB,WBSC,1928,0
+Baseball?and Softball,Softball,SBL,WBSC,1928,0
+Basketball,3x3,BK3,FIBA,1928,0
+Basketball,Basketball,BKB,FIBA,1928,0
+Basque Pelota,Basque Pelota,PEL,FIPV,1928,0
+Boxing,Boxing,BOX,No body recognised AIBA/IBA,1928,8
+Breaking,Breaking,BKG,WDSF,1928,0
+Canoeing,Sprint,CSP,ICF,1928,0
+Canoeing,Slalom,CSL,ICF,1928,0
+Cricket,Cricket,CKT,ICC,1928,0
+Croquet,Croquet,CQT,WCF,1928,0
+Cycling,BMX Freestyle,BMF,UCI,1928,0
+Cycling,BMX Racing,BMX,UCI,1928,0
+Cycling,Mountain Bike,MTB,UCI,1928,0
+Cycling,Road,CRD,UCI,1928,2
+Cycling,Track,CTR,UCI,1928,4
+Equestrian,Dressage,EDR,FEI,1928,2
+Equestrian,Eventing,EVE,FEI,1928,2
+Equestrian,Jumping,EJP,FEI,1928,2
+Equestrian,Vaulting,EVL,FEI,1928,0
+Equestrian,Driving,EDV,FEI,1928,0
+Fencing,Fencing,FEN,FIE,1928,7
+Field hockey,Field hockey,HOC,FIH,1928,1
+Flag football,Flag football,AFB,IFAF,1928,0
+Football,Football,FBL,FIFA,1928,1
+Golf,Golf,GLF,IGF,1928,0
+Gymnastics,Artistic,GAR,FIG,1928,8
+Gymnastics,Rhythmic,GRY,FIG,1928,0
+Gymnastics,Trampoline,GTR,FIG,1928,0
+Handball,Indoor,HBL,IHF,1928,0
+Handball,Field,HBL,IHF,1928,0
+Jeu de Paume,Jeu de Paume,?,?,1928,0
+Judo,Judo,JUD,IJF,1928,0
+Karate,Karate,KTE,WKF,1928,0
+Lacrosse,Sixes,LAX,WL,1928,0
+Lacrosse,Field,LAX,WL,1928,0
+Modern Pentathlon,,MPN,UIPM,1928,1
+Polo,Polo,POL,FIP,1928,0
+Rackets,Rackets,RQT,?,1928,0
+Roque,Roque,?,?,1928,0
+Rowing,Coastal,ROC,World Rowing,1928,0
+Rowing,Rowing,ROW,World Rowing,1928,7
+Rugby,Sevens,RU7,World Rugby,1928,0
+Rugby,Union,RUG,World Rugby,1928,0
+Sailing,Sailing,SAL,World Sailing,1928,3
+Shooting,Shooting,SHO,ISSF,1928,0
+Skateboarding,Skateboarding,SKB,World Skate,1928,0
+Sport Climbing,Sport Climbing,CLB,IFSC,1928,0
+Squash,Squash,SQU,WSF,1928,0
+Surfing,Surfing,SRF,ISA,1928,0
+Table Tennis,Table Tennis,TTE,ITTF,1928,0
+Taekwondo,Taekwondo,TKW,World Taekwondo,1928,0
+Tennis,Tennis,TEN,ITF,1928,0
+Triathlon,Triathlon,TRI,World Triathlon,1928,0
+Tug of War,Tug of War,TOW,TWIF,1928,0
+Volleyball,Beach,VBV,FIVB,1928,0
+Volleyball,Indoor,VVO,FIVB,1928,0
+Water Motorsports,,PBT,UIM,1928,0
+Weightlifting,Weightlifting,WLF,IWF,1928,5
+Wrestling,Freestyle,WRF,UWW,1928,7
+Wrestling,Greco-Roman,WRG,UWW,1928,6
+Skating,Figure,FSK,ISU,1928,0
+Ice Hockey,Ice Hockey,IHO,IIHF,1928,0
+Aquatics,Artistic Swimming,SWA,World Aquatics,1932,0
+Aquatics,Diving,DIV,World Aquatics,1932,4
+Aquatics,Marathon Swimming,OWS,World Aquatics,1932,0
+Aquatics,Swimming,SWM,World Aquatics,1932,11
+Aquatics,Water Polo,WPO,World Aquatics,1932,1
+Archery,Archery,ARC,World Archery,1932,0
+Athletics,Athletics,ATH,World Athletics,1932,29
+Badminton,Badminton,BDM,BWF,1932,0
+Baseball?and Softball,Baseball,BSB,WBSC,1932,0
+Baseball?and Softball,Softball,SBL,WBSC,1932,0
+Basketball,3x3,BK3,FIBA,1932,0
+Basketball,Basketball,BKB,FIBA,1932,0
+Basque Pelota,Basque Pelota,PEL,FIPV,1932,0
+Boxing,Boxing,BOX,No body recognised AIBA/IBA,1932,8
+Breaking,Breaking,BKG,WDSF,1932,0
+Canoeing,Sprint,CSP,ICF,1932,0
+Canoeing,Slalom,CSL,ICF,1932,0
+Cricket,Cricket,CKT,ICC,1932,0
+Croquet,Croquet,CQT,WCF,1932,0
+Cycling,BMX Freestyle,BMF,UCI,1932,0
+Cycling,BMX Racing,BMX,UCI,1932,0
+Cycling,Mountain Bike,MTB,UCI,1932,0
+Cycling,Road,CRD,UCI,1932,2
+Cycling,Track,CTR,UCI,1932,4
+Equestrian,Dressage,EDR,FEI,1932,2
+Equestrian,Eventing,EVE,FEI,1932,2
+Equestrian,Jumping,EJP,FEI,1932,2
+Equestrian,Vaulting,EVL,FEI,1932,0
+Equestrian,Driving,EDV,FEI,1932,0
+Fencing,Fencing,FEN,FIE,1932,7
+Field hockey,Field hockey,HOC,FIH,1932,1
+Flag football,Flag football,AFB,IFAF,1932,0
+Football,Football,FBL,FIFA,1932,0
+Golf,Golf,GLF,IGF,1932,0
+Gymnastics,Artistic,GAR,FIG,1932,11
+Gymnastics,Rhythmic,GRY,FIG,1932,0
+Gymnastics,Trampoline,GTR,FIG,1932,0
+Handball,Indoor,HBL,IHF,1932,0
+Handball,Field,HBL,IHF,1932,0
+Jeu de Paume,Jeu de Paume,?,?,1932,0
+Judo,Judo,JUD,IJF,1932,0
+Karate,Karate,KTE,WKF,1932,0
+Lacrosse,Sixes,LAX,WL,1932,0
+Lacrosse,Field,LAX,WL,1932,0
+Modern Pentathlon,,MPN,UIPM,1932,1
+Polo,Polo,POL,FIP,1932,0
+Rackets,Rackets,RQT,?,1932,0
+Roque,Roque,?,?,1932,0
+Rowing,Coastal,ROC,World Rowing,1932,0
+Rowing,Rowing,ROW,World Rowing,1932,7
+Rugby,Sevens,RU7,World Rugby,1932,0
+Rugby,Union,RUG,World Rugby,1932,0
+Sailing,Sailing,SAL,World Sailing,1932,4
+Shooting,Shooting,SHO,ISSF,1932,2
+Skateboarding,Skateboarding,SKB,World Skate,1932,0
+Sport Climbing,Sport Climbing,CLB,IFSC,1932,0
+Squash,Squash,SQU,WSF,1932,0
+Surfing,Surfing,SRF,ISA,1932,0
+Table Tennis,Table Tennis,TTE,ITTF,1932,0
+Taekwondo,Taekwondo,TKW,World Taekwondo,1932,0
+Tennis,Tennis,TEN,ITF,1932,0
+Triathlon,Triathlon,TRI,World Triathlon,1932,0
+Tug of War,Tug of War,TOW,TWIF,1932,0
+Volleyball,Beach,VBV,FIVB,1932,0
+Volleyball,Indoor,VVO,FIVB,1932,0
+Water Motorsports,,PBT,UIM,1932,0
+Weightlifting,Weightlifting,WLF,IWF,1932,5
+Wrestling,Freestyle,WRF,UWW,1932,7
+Wrestling,Greco-Roman,WRG,UWW,1932,7
+Skating,Figure,FSK,ISU,1932,0
+Ice Hockey,Ice Hockey,IHO,IIHF,1932,0
+Aquatics,Artistic Swimming,SWA,World Aquatics,1936,0
+Aquatics,Diving,DIV,World Aquatics,1936,4
+Aquatics,Marathon Swimming,OWS,World Aquatics,1936,0
+Aquatics,Swimming,SWM,World Aquatics,1936,11
+Aquatics,Water Polo,WPO,World Aquatics,1936,1
+Archery,Archery,ARC,World Archery,1936,0
+Athletics,Athletics,ATH,World Athletics,1936,29
+Badminton,Badminton,BDM,BWF,1936,0
+Baseball?and Softball,Baseball,BSB,WBSC,1936,0
+Baseball?and Softball,Softball,SBL,WBSC,1936,0
+Basketball,3x3,BK3,FIBA,1936,0
+Basketball,Basketball,BKB,FIBA,1936,1
+Basque Pelota,Basque Pelota,PEL,FIPV,1936,0
+Boxing,Boxing,BOX,No body recognised AIBA/IBA,1936,8
+Breaking,Breaking,BKG,WDSF,1936,0
+Canoeing,Sprint,CSP,ICF,1936,9
+Canoeing,Slalom,CSL,ICF,1936,0
+Cricket,Cricket,CKT,ICC,1936,0
+Croquet,Croquet,CQT,WCF,1936,0
+Cycling,BMX Freestyle,BMF,UCI,1936,0
+Cycling,BMX Racing,BMX,UCI,1936,0
+Cycling,Mountain Bike,MTB,UCI,1936,0
+Cycling,Road,CRD,UCI,1936,2
+Cycling,Track,CTR,UCI,1936,4
+Equestrian,Dressage,EDR,FEI,1936,2
+Equestrian,Eventing,EVE,FEI,1936,2
+Equestrian,Jumping,EJP,FEI,1936,2
+Equestrian,Vaulting,EVL,FEI,1936,0
+Equestrian,Driving,EDV,FEI,1936,0
+Fencing,Fencing,FEN,FIE,1936,7
+Field hockey,Field hockey,HOC,FIH,1936,1
+Flag football,Flag football,AFB,IFAF,1936,0
+Football,Football,FBL,FIFA,1936,1
+Golf,Golf,GLF,IGF,1936,0
+Gymnastics,Artistic,GAR,FIG,1936,9
+Gymnastics,Rhythmic,GRY,FIG,1936,0
+Gymnastics,Trampoline,GTR,FIG,1936,0
+Handball,Indoor,HBL,IHF,1936,0
+Handball,Field,HBL,IHF,1936,1
+Jeu de Paume,Jeu de Paume,?,?,1936,0
+Judo,Judo,JUD,IJF,1936,0
+Karate,Karate,KTE,WKF,1936,0
+Lacrosse,Sixes,LAX,WL,1936,0
+Lacrosse,Field,LAX,WL,1936,0
+Modern Pentathlon,,MPN,UIPM,1936,1
+Polo,Polo,POL,FIP,1936,1
+Rackets,Rackets,RQT,?,1936,0
+Roque,Roque,?,?,1936,0
+Rowing,Coastal,ROC,World Rowing,1936,0
+Rowing,Rowing,ROW,World Rowing,1936,7
+Rugby,Sevens,RU7,World Rugby,1936,0
+Rugby,Union,RUG,World Rugby,1936,0
+Sailing,Sailing,SAL,World Sailing,1936,4
+Shooting,Shooting,SHO,ISSF,1936,3
+Skateboarding,Skateboarding,SKB,World Skate,1936,0
+Sport Climbing,Sport Climbing,CLB,IFSC,1936,0
+Squash,Squash,SQU,WSF,1936,0
+Surfing,Surfing,SRF,ISA,1936,0
+Table Tennis,Table Tennis,TTE,ITTF,1936,0
+Taekwondo,Taekwondo,TKW,World Taekwondo,1936,0
+Tennis,Tennis,TEN,ITF,1936,0
+Triathlon,Triathlon,TRI,World Triathlon,1936,0
+Tug of War,Tug of War,TOW,TWIF,1936,0
+Volleyball,Beach,VBV,FIVB,1936,0
+Volleyball,Indoor,VVO,FIVB,1936,0
+Water Motorsports,,PBT,UIM,1936,0
+Weightlifting,Weightlifting,WLF,IWF,1936,5
+Wrestling,Freestyle,WRF,UWW,1936,7
+Wrestling,Greco-Roman,WRG,UWW,1936,7
+Skating,Figure,FSK,ISU,1936,0
+Ice Hockey,Ice Hockey,IHO,IIHF,1936,0
+Aquatics,Artistic Swimming,SWA,World Aquatics,1948,0
+Aquatics,Diving,DIV,World Aquatics,1948,4
+Aquatics,Marathon Swimming,OWS,World Aquatics,1948,0
+Aquatics,Swimming,SWM,World Aquatics,1948,11
+Aquatics,Water Polo,WPO,World Aquatics,1948,1
+Archery,Archery,ARC,World Archery,1948,0
+Athletics,Athletics,ATH,World Athletics,1948,33
+Badminton,Badminton,BDM,BWF,1948,0
+Baseball?and Softball,Baseball,BSB,WBSC,1948,0
+Baseball?and Softball,Softball,SBL,WBSC,1948,0
+Basketball,3x3,BK3,FIBA,1948,0
+Basketball,Basketball,BKB,FIBA,1948,1
+Basque Pelota,Basque Pelota,PEL,FIPV,1948,0
+Boxing,Boxing,BOX,No body recognised AIBA/IBA,1948,8
+Breaking,Breaking,BKG,WDSF,1948,0
+Canoeing,Sprint,CSP,ICF,1948,9
+Canoeing,Slalom,CSL,ICF,1948,0
+Cricket,Cricket,CKT,ICC,1948,0
+Croquet,Croquet,CQT,WCF,1948,0
+Cycling,BMX Freestyle,BMF,UCI,1948,0
+Cycling,BMX Racing,BMX,UCI,1948,0
+Cycling,Mountain Bike,MTB,UCI,1948,0
+Cycling,Road,CRD,UCI,1948,2
+Cycling,Track,CTR,UCI,1948,4
+Equestrian,Dressage,EDR,FEI,1948,2
+Equestrian,Eventing,EVE,FEI,1948,2
+Equestrian,Jumping,EJP,FEI,1948,2
+Equestrian,Vaulting,EVL,FEI,1948,0
+Equestrian,Driving,EDV,FEI,1948,0
+Fencing,Fencing,FEN,FIE,1948,7
+Field hockey,Field hockey,HOC,FIH,1948,1
+Flag football,Flag football,AFB,IFAF,1948,0
+Football,Football,FBL,FIFA,1948,1
+Golf,Golf,GLF,IGF,1948,0
+Gymnastics,Artistic,GAR,FIG,1948,9
+Gymnastics,Rhythmic,GRY,FIG,1948,0
+Gymnastics,Trampoline,GTR,FIG,1948,0
+Handball,Indoor,HBL,IHF,1948,0
+Handball,Field,HBL,IHF,1948,0
+Jeu de Paume,Jeu de Paume,?,?,1948,0
+Judo,Judo,JUD,IJF,1948,0
+Karate,Karate,KTE,WKF,1948,0
+Lacrosse,Sixes,LAX,WL,1948,0
+Lacrosse,Field,LAX,WL,1948,0
+Modern Pentathlon,,MPN,UIPM,1948,1
+Polo,Polo,POL,FIP,1948,0
+Rackets,Rackets,RQT,?,1948,0
+Roque,Roque,?,?,1948,0
+Rowing,Coastal,ROC,World Rowing,1948,0
+Rowing,Rowing,ROW,World Rowing,1948,7
+Rugby,Sevens,RU7,World Rugby,1948,0
+Rugby,Union,RUG,World Rugby,1948,0
+Sailing,Sailing,SAL,World Sailing,1948,5
+Shooting,Shooting,SHO,ISSF,1948,4
+Skateboarding,Skateboarding,SKB,World Skate,1948,0
+Sport Climbing,Sport Climbing,CLB,IFSC,1948,0
+Squash,Squash,SQU,WSF,1948,0
+Surfing,Surfing,SRF,ISA,1948,0
+Table Tennis,Table Tennis,TTE,ITTF,1948,0
+Taekwondo,Taekwondo,TKW,World Taekwondo,1948,0
+Tennis,Tennis,TEN,ITF,1948,0
+Triathlon,Triathlon,TRI,World Triathlon,1948,0
+Tug of War,Tug of War,TOW,TWIF,1948,0
+Volleyball,Beach,VBV,FIVB,1948,0
+Volleyball,Indoor,VVO,FIVB,1948,0
+Water Motorsports,,PBT,UIM,1948,0
+Weightlifting,Weightlifting,WLF,IWF,1948,6
+Wrestling,Freestyle,WRF,UWW,1948,8
+Wrestling,Greco-Roman,WRG,UWW,1948,8
+Skating,Figure,FSK,ISU,1948,0
+Ice Hockey,Ice Hockey,IHO,IIHF,1948,0
+Aquatics,Artistic Swimming,SWA,World Aquatics,1952,0
+Aquatics,Diving,DIV,World Aquatics,1952,4
+Aquatics,Marathon Swimming,OWS,World Aquatics,1952,0
+Aquatics,Swimming,SWM,World Aquatics,1952,11
+Aquatics,Water Polo,WPO,World Aquatics,1952,1
+Archery,Archery,ARC,World Archery,1952,0
+Athletics,Athletics,ATH,World Athletics,1952,33
+Badminton,Badminton,BDM,BWF,1952,0
+Baseball?and Softball,Baseball,BSB,WBSC,1952,0
+Baseball?and Softball,Softball,SBL,WBSC,1952,0
+Basketball,3x3,BK3,FIBA,1952,0
+Basketball,Basketball,BKB,FIBA,1952,1
+Basque Pelota,Basque Pelota,PEL,FIPV,1952,0
+Boxing,Boxing,BOX,No body recognised AIBA/IBA,1952,10
+Breaking,Breaking,BKG,WDSF,1952,0
+Canoeing,Sprint,CSP,ICF,1952,9
+Canoeing,Slalom,CSL,ICF,1952,0
+Cricket,Cricket,CKT,ICC,1952,0
+Croquet,Croquet,CQT,WCF,1952,0
+Cycling,BMX Freestyle,BMF,UCI,1952,0
+Cycling,BMX Racing,BMX,UCI,1952,0
+Cycling,Mountain Bike,MTB,UCI,1952,0
+Cycling,Road,CRD,UCI,1952,2
+Cycling,Track,CTR,UCI,1952,4
+Equestrian,Dressage,EDR,FEI,1952,2
+Equestrian,Eventing,EVE,FEI,1952,2
+Equestrian,Jumping,EJP,FEI,1952,2
+Equestrian,Vaulting,EVL,FEI,1952,0
+Equestrian,Driving,EDV,FEI,1952,0
+Fencing,Fencing,FEN,FIE,1952,7
+Field hockey,Field hockey,HOC,FIH,1952,1
+Flag football,Flag football,AFB,IFAF,1952,0
+Football,Football,FBL,FIFA,1952,1
+Golf,Golf,GLF,IGF,1952,0
+Gymnastics,Artistic,GAR,FIG,1952,15
+Gymnastics,Rhythmic,GRY,FIG,1952,0
+Gymnastics,Trampoline,GTR,FIG,1952,0
+Handball,Indoor,HBL,IHF,1952,0
+Handball,Field,HBL,IHF,1952,0
+Jeu de Paume,Jeu de Paume,?,?,1952,0
+Judo,Judo,JUD,IJF,1952,0
+Karate,Karate,KTE,WKF,1952,0
+Lacrosse,Sixes,LAX,WL,1952,0
+Lacrosse,Field,LAX,WL,1952,0
+Modern Pentathlon,,MPN,UIPM,1952,2
+Polo,Polo,POL,FIP,1952,0
+Rackets,Rackets,RQT,?,1952,0
+Roque,Roque,?,?,1952,0
+Rowing,Coastal,ROC,World Rowing,1952,0
+Rowing,Rowing,ROW,World Rowing,1952,7
+Rugby,Sevens,RU7,World Rugby,1952,0
+Rugby,Union,RUG,World Rugby,1952,0
+Sailing,Sailing,SAL,World Sailing,1952,5
+Shooting,Shooting,SHO,ISSF,1952,7
+Skateboarding,Skateboarding,SKB,World Skate,1952,0
+Sport Climbing,Sport Climbing,CLB,IFSC,1952,0
+Squash,Squash,SQU,WSF,1952,0
+Surfing,Surfing,SRF,ISA,1952,0
+Table Tennis,Table Tennis,TTE,ITTF,1952,0
+Taekwondo,Taekwondo,TKW,World Taekwondo,1952,0
+Tennis,Tennis,TEN,ITF,1952,0
+Triathlon,Triathlon,TRI,World Triathlon,1952,0
+Tug of War,Tug of War,TOW,TWIF,1952,0
+Volleyball,Beach,VBV,FIVB,1952,0
+Volleyball,Indoor,VVO,FIVB,1952,0
+Water Motorsports,,PBT,UIM,1952,0
+Weightlifting,Weightlifting,WLF,IWF,1952,7
+Wrestling,Freestyle,WRF,UWW,1952,8
+Wrestling,Greco-Roman,WRG,UWW,1952,8
+Skating,Figure,FSK,ISU,1952,0
+Ice Hockey,Ice Hockey,IHO,IIHF,1952,0
+Aquatics,Artistic Swimming,SWA,World Aquatics,1956,0
+Aquatics,Diving,DIV,World Aquatics,1956,4
+Aquatics,Marathon Swimming,OWS,World Aquatics,1956,0
+Aquatics,Swimming,SWM,World Aquatics,1956,13
+Aquatics,Water Polo,WPO,World Aquatics,1956,1
+Archery,Archery,ARC,World Archery,1956,0
+Athletics,Athletics,ATH,World Athletics,1956,33
+Badminton,Badminton,BDM,BWF,1956,0
+Baseball?and Softball,Baseball,BSB,WBSC,1956,0
+Baseball?and Softball,Softball,SBL,WBSC,1956,0
+Basketball,3x3,BK3,FIBA,1956,0
+Basketball,Basketball,BKB,FIBA,1956,1
+Basque Pelota,Basque Pelota,PEL,FIPV,1956,0
+Boxing,Boxing,BOX,No body recognised AIBA/IBA,1956,10
+Breaking,Breaking,BKG,WDSF,1956,0
+Canoeing,Sprint,CSP,ICF,1956,9
+Canoeing,Slalom,CSL,ICF,1956,0
+Cricket,Cricket,CKT,ICC,1956,0
+Croquet,Croquet,CQT,WCF,1956,0
+Cycling,BMX Freestyle,BMF,UCI,1956,0
+Cycling,BMX Racing,BMX,UCI,1956,0
+Cycling,Mountain Bike,MTB,UCI,1956,0
+Cycling,Road,CRD,UCI,1956,2
+Cycling,Track,CTR,UCI,1956,4
+Equestrian,Dressage,EDR,FEI,1956,2
+Equestrian,Eventing,EVE,FEI,1956,2
+Equestrian,Jumping,EJP,FEI,1956,2
+Equestrian,Vaulting,EVL,FEI,1956,0
+Equestrian,Driving,EDV,FEI,1956,0
+Fencing,Fencing,FEN,FIE,1956,7
+Field hockey,Field hockey,HOC,FIH,1956,1
+Flag football,Flag football,AFB,IFAF,1956,0
+Football,Football,FBL,FIFA,1956,1
+Golf,Golf,GLF,IGF,1956,0
+Gymnastics,Artistic,GAR,FIG,1956,15
+Gymnastics,Rhythmic,GRY,FIG,1956,0
+Gymnastics,Trampoline,GTR,FIG,1956,0
+Handball,Indoor,HBL,IHF,1956,0
+Handball,Field,HBL,IHF,1956,0
+Jeu de Paume,Jeu de Paume,?,?,1956,0
+Judo,Judo,JUD,IJF,1956,0
+Karate,Karate,KTE,WKF,1956,0
+Lacrosse,Sixes,LAX,WL,1956,0
+Lacrosse,Field,LAX,WL,1956,0
+Modern Pentathlon,,MPN,UIPM,1956,2
+Polo,Polo,POL,FIP,1956,0
+Rackets,Rackets,RQT,?,1956,0
+Roque,Roque,?,?,1956,0
+Rowing,Coastal,ROC,World Rowing,1956,0
+Rowing,Rowing,ROW,World Rowing,1956,7
+Rugby,Sevens,RU7,World Rugby,1956,0
+Rugby,Union,RUG,World Rugby,1956,0
+Sailing,Sailing,SAL,World Sailing,1956,5
+Shooting,Shooting,SHO,ISSF,1956,7
+Skateboarding,Skateboarding,SKB,World Skate,1956,0
+Sport Climbing,Sport Climbing,CLB,IFSC,1956,0
+Squash,Squash,SQU,WSF,1956,0
+Surfing,Surfing,SRF,ISA,1956,0
+Table Tennis,Table Tennis,TTE,ITTF,1956,0
+Taekwondo,Taekwondo,TKW,World Taekwondo,1956,0
+Tennis,Tennis,TEN,ITF,1956,0
+Triathlon,Triathlon,TRI,World Triathlon,1956,0
+Tug of War,Tug of War,TOW,TWIF,1956,0
+Volleyball,Beach,VBV,FIVB,1956,0
+Volleyball,Indoor,VVO,FIVB,1956,0
+Water Motorsports,,PBT,UIM,1956,0
+Weightlifting,Weightlifting,WLF,IWF,1956,7
+Wrestling,Freestyle,WRF,UWW,1956,8
+Wrestling,Greco-Roman,WRG,UWW,1956,8
+Skating,Figure,FSK,ISU,1956,0
+Ice Hockey,Ice Hockey,IHO,IIHF,1956,0
+Aquatics,Artistic Swimming,SWA,World Aquatics,1960,0
+Aquatics,Diving,DIV,World Aquatics,1960,4
+Aquatics,Marathon Swimming,OWS,World Aquatics,1960,0
+Aquatics,Swimming,SWM,World Aquatics,1960,15
+Aquatics,Water Polo,WPO,World Aquatics,1960,1
+Archery,Archery,ARC,World Archery,1960,0
+Athletics,Athletics,ATH,World Athletics,1960,34
+Badminton,Badminton,BDM,BWF,1960,0
+Baseball?and Softball,Baseball,BSB,WBSC,1960,0
+Baseball?and Softball,Softball,SBL,WBSC,1960,0
+Basketball,3x3,BK3,FIBA,1960,0
+Basketball,Basketball,BKB,FIBA,1960,1
+Basque Pelota,Basque Pelota,PEL,FIPV,1960,0
+Boxing,Boxing,BOX,No body recognised AIBA/IBA,1960,10
+Breaking,Breaking,BKG,WDSF,1960,0
+Canoeing,Sprint,CSP,ICF,1960,7
+Canoeing,Slalom,CSL,ICF,1960,0
+Cricket,Cricket,CKT,ICC,1960,0
+Croquet,Croquet,CQT,WCF,1960,0
+Cycling,BMX Freestyle,BMF,UCI,1960,0
+Cycling,BMX Racing,BMX,UCI,1960,0
+Cycling,Mountain Bike,MTB,UCI,1960,0
+Cycling,Road,CRD,UCI,1960,2
+Cycling,Track,CTR,UCI,1960,4
+Equestrian,Dressage,EDR,FEI,1960,1
+Equestrian,Eventing,EVE,FEI,1960,2
+Equestrian,Jumping,EJP,FEI,1960,2
+Equestrian,Vaulting,EVL,FEI,1960,0
+Equestrian,Driving,EDV,FEI,1960,0
+Fencing,Fencing,FEN,FIE,1960,8
+Field hockey,Field hockey,HOC,FIH,1960,1
+Flag football,Flag football,AFB,IFAF,1960,0
+Football,Football,FBL,FIFA,1960,1
+Golf,Golf,GLF,IGF,1960,0
+Gymnastics,Artistic,GAR,FIG,1960,14
+Gymnastics,Rhythmic,GRY,FIG,1960,0
+Gymnastics,Trampoline,GTR,FIG,1960,0
+Handball,Indoor,HBL,IHF,1960,0
+Handball,Field,HBL,IHF,1960,0
+Jeu de Paume,Jeu de Paume,?,?,1960,0
+Judo,Judo,JUD,IJF,1960,0
+Karate,Karate,KTE,WKF,1960,0
+Lacrosse,Sixes,LAX,WL,1960,0
+Lacrosse,Field,LAX,WL,1960,0
+Modern Pentathlon,,MPN,UIPM,1960,2
+Polo,Polo,POL,FIP,1960,0
+Rackets,Rackets,RQT,?,1960,0
+Roque,Roque,?,?,1960,0
+Rowing,Coastal,ROC,World Rowing,1960,0
+Rowing,Rowing,ROW,World Rowing,1960,7
+Rugby,Sevens,RU7,World Rugby,1960,0
+Rugby,Union,RUG,World Rugby,1960,0
+Sailing,Sailing,SAL,World Sailing,1960,5
+Shooting,Shooting,SHO,ISSF,1960,6
+Skateboarding,Skateboarding,SKB,World Skate,1960,0
+Sport Climbing,Sport Climbing,CLB,IFSC,1960,0
+Squash,Squash,SQU,WSF,1960,0
+Surfing,Surfing,SRF,ISA,1960,0
+Table Tennis,Table Tennis,TTE,ITTF,1960,0
+Taekwondo,Taekwondo,TKW,World Taekwondo,1960,0
+Tennis,Tennis,TEN,ITF,1960,0
+Triathlon,Triathlon,TRI,World Triathlon,1960,0
+Tug of War,Tug of War,TOW,TWIF,1960,0
+Volleyball,Beach,VBV,FIVB,1960,0
+Volleyball,Indoor,VVO,FIVB,1960,0
+Water Motorsports,,PBT,UIM,1960,0
+Weightlifting,Weightlifting,WLF,IWF,1960,7
+Wrestling,Freestyle,WRF,UWW,1960,8
+Wrestling,Greco-Roman,WRG,UWW,1960,8
+Skating,Figure,FSK,ISU,1960,0
+Ice Hockey,Ice Hockey,IHO,IIHF,1960,0
+Aquatics,Artistic Swimming,SWA,World Aquatics,1964,0
+Aquatics,Diving,DIV,World Aquatics,1964,4
+Aquatics,Marathon Swimming,OWS,World Aquatics,1964,0
+Aquatics,Swimming,SWM,World Aquatics,1964,18
+Aquatics,Water Polo,WPO,World Aquatics,1964,1
+Archery,Archery,ARC,World Archery,1964,0
+Athletics,Athletics,ATH,World Athletics,1964,36
+Badminton,Badminton,BDM,BWF,1964,0
+Baseball?and Softball,Baseball,BSB,WBSC,1964,0
+Baseball?and Softball,Softball,SBL,WBSC,1964,0
+Basketball,3x3,BK3,FIBA,1964,0
+Basketball,Basketball,BKB,FIBA,1964,1
+Basque Pelota,Basque Pelota,PEL,FIPV,1964,0
+Boxing,Boxing,BOX,No body recognised AIBA/IBA,1964,10
+Breaking,Breaking,BKG,WDSF,1964,0
+Canoeing,Sprint,CSP,ICF,1964,7
+Canoeing,Slalom,CSL,ICF,1964,0
+Cricket,Cricket,CKT,ICC,1964,0
+Croquet,Croquet,CQT,WCF,1964,0
+Cycling,BMX Freestyle,BMF,UCI,1964,0
+Cycling,BMX Racing,BMX,UCI,1964,0
+Cycling,Mountain Bike,MTB,UCI,1964,0
+Cycling,Road,CRD,UCI,1964,2
+Cycling,Track,CTR,UCI,1964,5
+Equestrian,Dressage,EDR,FEI,1964,2
+Equestrian,Eventing,EVE,FEI,1964,2
+Equestrian,Jumping,EJP,FEI,1964,2
+Equestrian,Vaulting,EVL,FEI,1964,0
+Equestrian,Driving,EDV,FEI,1964,0
+Fencing,Fencing,FEN,FIE,1964,8
+Field hockey,Field hockey,HOC,FIH,1964,1
+Flag football,Flag football,AFB,IFAF,1964,0
+Football,Football,FBL,FIFA,1964,1
+Golf,Golf,GLF,IGF,1964,0
+Gymnastics,Artistic,GAR,FIG,1964,14
+Gymnastics,Rhythmic,GRY,FIG,1964,0
+Gymnastics,Trampoline,GTR,FIG,1964,0
+Handball,Indoor,HBL,IHF,1964,0
+Handball,Field,HBL,IHF,1964,0
+Jeu de Paume,Jeu de Paume,?,?,1964,0
+Judo,Judo,JUD,IJF,1964,4
+Karate,Karate,KTE,WKF,1964,0
+Lacrosse,Sixes,LAX,WL,1964,0
+Lacrosse,Field,LAX,WL,1964,0
+Modern Pentathlon,,MPN,UIPM,1964,2
+Polo,Polo,POL,FIP,1964,0
+Rackets,Rackets,RQT,?,1964,0
+Roque,Roque,?,?,1964,0
+Rowing,Coastal,ROC,World Rowing,1964,0
+Rowing,Rowing,ROW,World Rowing,1964,7
+Rugby,Sevens,RU7,World Rugby,1964,0
+Rugby,Union,RUG,World Rugby,1964,0
+Sailing,Sailing,SAL,World Sailing,1964,5
+Shooting,Shooting,SHO,ISSF,1964,6
+Skateboarding,Skateboarding,SKB,World Skate,1964,0
+Sport Climbing,Sport Climbing,CLB,IFSC,1964,0
+Squash,Squash,SQU,WSF,1964,0
+Surfing,Surfing,SRF,ISA,1964,0
+Table Tennis,Table Tennis,TTE,ITTF,1964,0
+Taekwondo,Taekwondo,TKW,World Taekwondo,1964,0
+Tennis,Tennis,TEN,ITF,1964,0
+Triathlon,Triathlon,TRI,World Triathlon,1964,0
+Tug of War,Tug of War,TOW,TWIF,1964,0
+Volleyball,Beach,VBV,FIVB,1964,0
+Volleyball,Indoor,VVO,FIVB,1964,2
+Water Motorsports,,PBT,UIM,1964,0
+Weightlifting,Weightlifting,WLF,IWF,1964,7
+Wrestling,Freestyle,WRF,UWW,1964,8
+Wrestling,Greco-Roman,WRG,UWW,1964,8
+Skating,Figure,FSK,ISU,1964,0
+Ice Hockey,Ice Hockey,IHO,IIHF,1964,0
+Aquatics,Artistic Swimming,SWA,World Aquatics,1968,0
+Aquatics,Diving,DIV,World Aquatics,1968,4
+Aquatics,Marathon Swimming,OWS,World Aquatics,1968,0
+Aquatics,Swimming,SWM,World Aquatics,1968,29
+Aquatics,Water Polo,WPO,World Aquatics,1968,1
+Archery,Archery,ARC,World Archery,1968,0
+Athletics,Athletics,ATH,World Athletics,1968,36
+Badminton,Badminton,BDM,BWF,1968,0
+Baseball?and Softball,Baseball,BSB,WBSC,1968,0
+Baseball?and Softball,Softball,SBL,WBSC,1968,0
+Basketball,3x3,BK3,FIBA,1968,0
+Basketball,Basketball,BKB,FIBA,1968,1
+Basque Pelota,Basque Pelota,PEL,FIPV,1968,0
+Boxing,Boxing,BOX,No body recognised AIBA/IBA,1968,11
+Breaking,Breaking,BKG,WDSF,1968,0
+Canoeing,Sprint,CSP,ICF,1968,7
+Canoeing,Slalom,CSL,ICF,1968,0
+Cricket,Cricket,CKT,ICC,1968,0
+Croquet,Croquet,CQT,WCF,1968,0
+Cycling,BMX Freestyle,BMF,UCI,1968,0
+Cycling,BMX Racing,BMX,UCI,1968,0
+Cycling,Mountain Bike,MTB,UCI,1968,0
+Cycling,Road,CRD,UCI,1968,2
+Cycling,Track,CTR,UCI,1968,5
+Equestrian,Dressage,EDR,FEI,1968,2
+Equestrian,Eventing,EVE,FEI,1968,2
+Equestrian,Jumping,EJP,FEI,1968,2
+Equestrian,Vaulting,EVL,FEI,1968,0
+Equestrian,Driving,EDV,FEI,1968,0
+Fencing,Fencing,FEN,FIE,1968,8
+Field hockey,Field hockey,HOC,FIH,1968,1
+Flag football,Flag football,AFB,IFAF,1968,0
+Football,Football,FBL,FIFA,1968,1
+Golf,Golf,GLF,IGF,1968,0
+Gymnastics,Artistic,GAR,FIG,1968,14
+Gymnastics,Rhythmic,GRY,FIG,1968,0
+Gymnastics,Trampoline,GTR,FIG,1968,0
+Handball,Indoor,HBL,IHF,1968,0
+Handball,Field,HBL,IHF,1968,0
+Jeu de Paume,Jeu de Paume,?,?,1968,0
+Judo,Judo,JUD,IJF,1968,0
+Karate,Karate,KTE,WKF,1968,0
+Lacrosse,Sixes,LAX,WL,1968,0
+Lacrosse,Field,LAX,WL,1968,0
+Modern Pentathlon,,MPN,UIPM,1968,2
+Polo,Polo,POL,FIP,1968,0
+Rackets,Rackets,RQT,?,1968,0
+Roque,Roque,?,?,1968,0
+Rowing,Coastal,ROC,World Rowing,1968,0
+Rowing,Rowing,ROW,World Rowing,1968,7
+Rugby,Sevens,RU7,World Rugby,1968,0
+Rugby,Union,RUG,World Rugby,1968,0
+Sailing,Sailing,SAL,World Sailing,1968,5
+Shooting,Shooting,SHO,ISSF,1968,7
+Skateboarding,Skateboarding,SKB,World Skate,1968,0
+Sport Climbing,Sport Climbing,CLB,IFSC,1968,0
+Squash,Squash,SQU,WSF,1968,0
+Surfing,Surfing,SRF,ISA,1968,0
+Table Tennis,Table Tennis,TTE,ITTF,1968,0
+Taekwondo,Taekwondo,TKW,World Taekwondo,1968,0
+Tennis,Tennis,TEN,ITF,1968,0
+Triathlon,Triathlon,TRI,World Triathlon,1968,0
+Tug of War,Tug of War,TOW,TWIF,1968,0
+Volleyball,Beach,VBV,FIVB,1968,0
+Volleyball,Indoor,VVO,FIVB,1968,2
+Water Motorsports,,PBT,UIM,1968,0
+Weightlifting,Weightlifting,WLF,IWF,1968,7
+Wrestling,Freestyle,WRF,UWW,1968,8
+Wrestling,Greco-Roman,WRG,UWW,1968,8
+Skating,Figure,FSK,ISU,1968,0
+Ice Hockey,Ice Hockey,IHO,IIHF,1968,0
+Aquatics,Artistic Swimming,SWA,World Aquatics,1972,0
+Aquatics,Diving,DIV,World Aquatics,1972,4
+Aquatics,Marathon Swimming,OWS,World Aquatics,1972,0
+Aquatics,Swimming,SWM,World Aquatics,1972,29
+Aquatics,Water Polo,WPO,World Aquatics,1972,1
+Archery,Archery,ARC,World Archery,1972,2
+Athletics,Athletics,ATH,World Athletics,1972,38
+Badminton,Badminton,BDM,BWF,1972,0
+Baseball?and Softball,Baseball,BSB,WBSC,1972,0
+Baseball?and Softball,Softball,SBL,WBSC,1972,0
+Basketball,3x3,BK3,FIBA,1972,0
+Basketball,Basketball,BKB,FIBA,1972,1
+Basque Pelota,Basque Pelota,PEL,FIPV,1972,0
+Boxing,Boxing,BOX,No body recognised AIBA/IBA,1972,11
+Breaking,Breaking,BKG,WDSF,1972,0
+Canoeing,Sprint,CSP,ICF,1972,7
+Canoeing,Slalom,CSL,ICF,1972,4
+Cricket,Cricket,CKT,ICC,1972,0
+Croquet,Croquet,CQT,WCF,1972,0
+Cycling,BMX Freestyle,BMF,UCI,1972,0
+Cycling,BMX Racing,BMX,UCI,1972,0
+Cycling,Mountain Bike,MTB,UCI,1972,0
+Cycling,Road,CRD,UCI,1972,2
+Cycling,Track,CTR,UCI,1972,5
+Equestrian,Dressage,EDR,FEI,1972,2
+Equestrian,Eventing,EVE,FEI,1972,2
+Equestrian,Jumping,EJP,FEI,1972,2
+Equestrian,Vaulting,EVL,FEI,1972,0
+Equestrian,Driving,EDV,FEI,1972,0
+Fencing,Fencing,FEN,FIE,1972,8
+Field hockey,Field hockey,HOC,FIH,1972,1
+Flag football,Flag football,AFB,IFAF,1972,0
+Football,Football,FBL,FIFA,1972,1
+Golf,Golf,GLF,IGF,1972,0
+Gymnastics,Artistic,GAR,FIG,1972,14
+Gymnastics,Rhythmic,GRY,FIG,1972,0
+Gymnastics,Trampoline,GTR,FIG,1972,0
+Handball,Indoor,HBL,IHF,1972,1
+Handball,Field,HBL,IHF,1972,0
+Jeu de Paume,Jeu de Paume,?,?,1972,0
+Judo,Judo,JUD,IJF,1972,6
+Karate,Karate,KTE,WKF,1972,0
+Lacrosse,Sixes,LAX,WL,1972,0
+Lacrosse,Field,LAX,WL,1972,0
+Modern Pentathlon,,MPN,UIPM,1972,2
+Polo,Polo,POL,FIP,1972,0
+Rackets,Rackets,RQT,?,1972,0
+Roque,Roque,?,?,1972,0
+Rowing,Coastal,ROC,World Rowing,1972,0
+Rowing,Rowing,ROW,World Rowing,1972,7
+Rugby,Sevens,RU7,World Rugby,1972,0
+Rugby,Union,RUG,World Rugby,1972,0
+Sailing,Sailing,SAL,World Sailing,1972,6
+Shooting,Shooting,SHO,ISSF,1972,8
+Skateboarding,Skateboarding,SKB,World Skate,1972,0
+Sport Climbing,Sport Climbing,CLB,IFSC,1972,0
+Squash,Squash,SQU,WSF,1972,0
+Surfing,Surfing,SRF,ISA,1972,0
+Table Tennis,Table Tennis,TTE,ITTF,1972,0
+Taekwondo,Taekwondo,TKW,World Taekwondo,1972,0
+Tennis,Tennis,TEN,ITF,1972,0
+Triathlon,Triathlon,TRI,World Triathlon,1972,0
+Tug of War,Tug of War,TOW,TWIF,1972,0
+Volleyball,Beach,VBV,FIVB,1972,0
+Volleyball,Indoor,VVO,FIVB,1972,2
+Water Motorsports,,PBT,UIM,1972,0
+Weightlifting,Weightlifting,WLF,IWF,1972,9
+Wrestling,Freestyle,WRF,UWW,1972,10
+Wrestling,Greco-Roman,WRG,UWW,1972,10
+Skating,Figure,FSK,ISU,1972,0
+Ice Hockey,Ice Hockey,IHO,IIHF,1972,0
+Aquatics,Artistic Swimming,SWA,World Aquatics,1976,0
+Aquatics,Diving,DIV,World Aquatics,1976,4
+Aquatics,Marathon Swimming,OWS,World Aquatics,1976,0
+Aquatics,Swimming,SWM,World Aquatics,1976,26
+Aquatics,Water Polo,WPO,World Aquatics,1976,1
+Archery,Archery,ARC,World Archery,1976,2
+Athletics,Athletics,ATH,World Athletics,1976,37
+Badminton,Badminton,BDM,BWF,1976,0
+Baseball?and Softball,Baseball,BSB,WBSC,1976,0
+Baseball?and Softball,Softball,SBL,WBSC,1976,0
+Basketball,3x3,BK3,FIBA,1976,0
+Basketball,Basketball,BKB,FIBA,1976,2
+Basque Pelota,Basque Pelota,PEL,FIPV,1976,0
+Boxing,Boxing,BOX,No body recognised AIBA/IBA,1976,11
+Breaking,Breaking,BKG,WDSF,1976,0
+Canoeing,Sprint,CSP,ICF,1976,11
+Canoeing,Slalom,CSL,ICF,1976,0
+Cricket,Cricket,CKT,ICC,1976,0
+Croquet,Croquet,CQT,WCF,1976,0
+Cycling,BMX Freestyle,BMF,UCI,1976,0
+Cycling,BMX Racing,BMX,UCI,1976,0
+Cycling,Mountain Bike,MTB,UCI,1976,0
+Cycling,Road,CRD,UCI,1976,2
+Cycling,Track,CTR,UCI,1976,4
+Equestrian,Dressage,EDR,FEI,1976,2
+Equestrian,Eventing,EVE,FEI,1976,2
+Equestrian,Jumping,EJP,FEI,1976,2
+Equestrian,Vaulting,EVL,FEI,1976,0
+Equestrian,Driving,EDV,FEI,1976,0
+Fencing,Fencing,FEN,FIE,1976,8
+Field hockey,Field hockey,HOC,FIH,1976,1
+Flag football,Flag football,AFB,IFAF,1976,0
+Football,Football,FBL,FIFA,1976,1
+Golf,Golf,GLF,IGF,1976,0
+Gymnastics,Artistic,GAR,FIG,1976,14
+Gymnastics,Rhythmic,GRY,FIG,1976,0
+Gymnastics,Trampoline,GTR,FIG,1976,0
+Handball,Indoor,HBL,IHF,1976,2
+Handball,Field,HBL,IHF,1976,0
+Jeu de Paume,Jeu de Paume,?,?,1976,0
+Judo,Judo,JUD,IJF,1976,6
+Karate,Karate,KTE,WKF,1976,0
+Lacrosse,Sixes,LAX,WL,1976,0
+Lacrosse,Field,LAX,WL,1976,0
+Modern Pentathlon,,MPN,UIPM,1976,2
+Polo,Polo,POL,FIP,1976,0
+Rackets,Rackets,RQT,?,1976,0
+Roque,Roque,?,?,1976,0
+Rowing,Coastal,ROC,World Rowing,1976,0
+Rowing,Rowing,ROW,World Rowing,1976,14
+Rugby,Sevens,RU7,World Rugby,1976,0
+Rugby,Union,RUG,World Rugby,1976,0
+Sailing,Sailing,SAL,World Sailing,1976,6
+Shooting,Shooting,SHO,ISSF,1976,7
+Skateboarding,Skateboarding,SKB,World Skate,1976,0
+Sport Climbing,Sport Climbing,CLB,IFSC,1976,0
+Squash,Squash,SQU,WSF,1976,0
+Surfing,Surfing,SRF,ISA,1976,0
+Table Tennis,Table Tennis,TTE,ITTF,1976,0
+Taekwondo,Taekwondo,TKW,World Taekwondo,1976,0
+Tennis,Tennis,TEN,ITF,1976,0
+Triathlon,Triathlon,TRI,World Triathlon,1976,0
+Tug of War,Tug of War,TOW,TWIF,1976,0
+Volleyball,Beach,VBV,FIVB,1976,0
+Volleyball,Indoor,VVO,FIVB,1976,2
+Water Motorsports,,PBT,UIM,1976,0
+Weightlifting,Weightlifting,WLF,IWF,1976,9
+Wrestling,Freestyle,WRF,UWW,1976,10
+Wrestling,Greco-Roman,WRG,UWW,1976,10
+Skating,Figure,FSK,ISU,1976,0
+Ice Hockey,Ice Hockey,IHO,IIHF,1976,0
+Aquatics,Artistic Swimming,SWA,World Aquatics,1980,0
+Aquatics,Diving,DIV,World Aquatics,1980,4
+Aquatics,Marathon Swimming,OWS,World Aquatics,1980,0
+Aquatics,Swimming,SWM,World Aquatics,1980,26
+Aquatics,Water Polo,WPO,World Aquatics,1980,1
+Archery,Archery,ARC,World Archery,1980,2
+Athletics,Athletics,ATH,World Athletics,1980,38
+Badminton,Badminton,BDM,BWF,1980,0
+Baseball?and Softball,Baseball,BSB,WBSC,1980,0
+Baseball?and Softball,Softball,SBL,WBSC,1980,0
+Basketball,3x3,BK3,FIBA,1980,0
+Basketball,Basketball,BKB,FIBA,1980,2
+Basque Pelota,Basque Pelota,PEL,FIPV,1980,0
+Boxing,Boxing,BOX,No body recognised AIBA/IBA,1980,11
+Breaking,Breaking,BKG,WDSF,1980,0
+Canoeing,Sprint,CSP,ICF,1980,11
+Canoeing,Slalom,CSL,ICF,1980,0
+Cricket,Cricket,CKT,ICC,1980,0
+Croquet,Croquet,CQT,WCF,1980,0
+Cycling,BMX Freestyle,BMF,UCI,1980,0
+Cycling,BMX Racing,BMX,UCI,1980,0
+Cycling,Mountain Bike,MTB,UCI,1980,0
+Cycling,Road,CRD,UCI,1980,2
+Cycling,Track,CTR,UCI,1980,4
+Equestrian,Dressage,EDR,FEI,1980,2
+Equestrian,Eventing,EVE,FEI,1980,2
+Equestrian,Jumping,EJP,FEI,1980,2
+Equestrian,Vaulting,EVL,FEI,1980,0
+Equestrian,Driving,EDV,FEI,1980,0
+Fencing,Fencing,FEN,FIE,1980,8
+Field hockey,Field hockey,HOC,FIH,1980,2
+Flag football,Flag football,AFB,IFAF,1980,0
+Football,Football,FBL,FIFA,1980,1
+Golf,Golf,GLF,IGF,1980,0
+Gymnastics,Artistic,GAR,FIG,1980,14
+Gymnastics,Rhythmic,GRY,FIG,1980,0
+Gymnastics,Trampoline,GTR,FIG,1980,0
+Handball,Indoor,HBL,IHF,1980,2
+Handball,Field,HBL,IHF,1980,0
+Jeu de Paume,Jeu de Paume,?,?,1980,0
+Judo,Judo,JUD,IJF,1980,8
+Karate,Karate,KTE,WKF,1980,0
+Lacrosse,Sixes,LAX,WL,1980,0
+Lacrosse,Field,LAX,WL,1980,0
+Modern Pentathlon,,MPN,UIPM,1980,2
+Polo,Polo,POL,FIP,1980,0
+Rackets,Rackets,RQT,?,1980,0
+Roque,Roque,?,?,1980,0
+Rowing,Coastal,ROC,World Rowing,1980,0
+Rowing,Rowing,ROW,World Rowing,1980,14
+Rugby,Sevens,RU7,World Rugby,1980,0
+Rugby,Union,RUG,World Rugby,1980,0
+Sailing,Sailing,SAL,World Sailing,1980,6
+Shooting,Shooting,SHO,ISSF,1980,7
+Skateboarding,Skateboarding,SKB,World Skate,1980,0
+Sport Climbing,Sport Climbing,CLB,IFSC,1980,0
+Squash,Squash,SQU,WSF,1980,0
+Surfing,Surfing,SRF,ISA,1980,0
+Table Tennis,Table Tennis,TTE,ITTF,1980,0
+Taekwondo,Taekwondo,TKW,World Taekwondo,1980,0
+Tennis,Tennis,TEN,ITF,1980,0
+Triathlon,Triathlon,TRI,World Triathlon,1980,0
+Tug of War,Tug of War,TOW,TWIF,1980,0
+Volleyball,Beach,VBV,FIVB,1980,0
+Volleyball,Indoor,VVO,FIVB,1980,2
+Water Motorsports,,PBT,UIM,1980,0
+Weightlifting,Weightlifting,WLF,IWF,1980,10
+Wrestling,Freestyle,WRF,UWW,1980,10
+Wrestling,Greco-Roman,WRG,UWW,1980,10
+Skating,Figure,FSK,ISU,1980,0
+Ice Hockey,Ice Hockey,IHO,IIHF,1980,0
+Aquatics,Artistic Swimming,SWA,World Aquatics,1984,2
+Aquatics,Diving,DIV,World Aquatics,1984,4
+Aquatics,Marathon Swimming,OWS,World Aquatics,1984,0
+Aquatics,Swimming,SWM,World Aquatics,1984,29
+Aquatics,Water Polo,WPO,World Aquatics,1984,1
+Archery,Archery,ARC,World Archery,1984,2
+Athletics,Athletics,ATH,World Athletics,1984,41
+Badminton,Badminton,BDM,BWF,1984,0
+Baseball?and Softball,Baseball,BSB,WBSC,1984,0
+Baseball?and Softball,Softball,SBL,WBSC,1984,0
+Basketball,3x3,BK3,FIBA,1984,0
+Basketball,Basketball,BKB,FIBA,1984,2
+Basque Pelota,Basque Pelota,PEL,FIPV,1984,0
+Boxing,Boxing,BOX,No body recognised AIBA/IBA,1984,12
+Breaking,Breaking,BKG,WDSF,1984,0
+Canoeing,Sprint,CSP,ICF,1984,12
+Canoeing,Slalom,CSL,ICF,1984,0
+Cricket,Cricket,CKT,ICC,1984,0
+Croquet,Croquet,CQT,WCF,1984,0
+Cycling,BMX Freestyle,BMF,UCI,1984,0
+Cycling,BMX Racing,BMX,UCI,1984,0
+Cycling,Mountain Bike,MTB,UCI,1984,0
+Cycling,Road,CRD,UCI,1984,3
+Cycling,Track,CTR,UCI,1984,5
+Equestrian,Dressage,EDR,FEI,1984,2
+Equestrian,Eventing,EVE,FEI,1984,2
+Equestrian,Jumping,EJP,FEI,1984,2
+Equestrian,Vaulting,EVL,FEI,1984,0
+Equestrian,Driving,EDV,FEI,1984,0
+Fencing,Fencing,FEN,FIE,1984,8
+Field hockey,Field hockey,HOC,FIH,1984,2
+Flag football,Flag football,AFB,IFAF,1984,0
+Football,Football,FBL,FIFA,1984,1
+Golf,Golf,GLF,IGF,1984,0
+Gymnastics,Artistic,GAR,FIG,1984,14
+Gymnastics,Rhythmic,GRY,FIG,1984,1
+Gymnastics,Trampoline,GTR,FIG,1984,0
+Handball,Indoor,HBL,IHF,1984,2
+Handball,Field,HBL,IHF,1984,0
+Jeu de Paume,Jeu de Paume,?,?,1984,0
+Judo,Judo,JUD,IJF,1984,8
+Karate,Karate,KTE,WKF,1984,0
+Lacrosse,Sixes,LAX,WL,1984,0
+Lacrosse,Field,LAX,WL,1984,0
+Modern Pentathlon,,MPN,UIPM,1984,2
+Polo,Polo,POL,FIP,1984,0
+Rackets,Rackets,RQT,?,1984,0
+Roque,Roque,?,?,1984,0
+Rowing,Coastal,ROC,World Rowing,1984,0
+Rowing,Rowing,ROW,World Rowing,1984,14
+Rugby,Sevens,RU7,World Rugby,1984,0
+Rugby,Union,RUG,World Rugby,1984,0
+Sailing,Sailing,SAL,World Sailing,1984,7
+Shooting,Shooting,SHO,ISSF,1984,11
+Skateboarding,Skateboarding,SKB,World Skate,1984,0
+Sport Climbing,Sport Climbing,CLB,IFSC,1984,0
+Squash,Squash,SQU,WSF,1984,0
+Surfing,Surfing,SRF,ISA,1984,0
+Table Tennis,Table Tennis,TTE,ITTF,1984,0
+Taekwondo,Taekwondo,TKW,World Taekwondo,1984,0
+Tennis,Tennis,TEN,ITF,1984,0
+Triathlon,Triathlon,TRI,World Triathlon,1984,0
+Tug of War,Tug of War,TOW,TWIF,1984,0
+Volleyball,Beach,VBV,FIVB,1984,0
+Volleyball,Indoor,VVO,FIVB,1984,2
+Water Motorsports,,PBT,UIM,1984,0
+Weightlifting,Weightlifting,WLF,IWF,1984,10
+Wrestling,Freestyle,WRF,UWW,1984,10
+Wrestling,Greco-Roman,WRG,UWW,1984,10
+Skating,Figure,FSK,ISU,1984,0
+Ice Hockey,Ice Hockey,IHO,IIHF,1984,0
+Aquatics,Artistic Swimming,SWA,World Aquatics,1988,2
+Aquatics,Diving,DIV,World Aquatics,1988,4
+Aquatics,Marathon Swimming,OWS,World Aquatics,1988,0
+Aquatics,Swimming,SWM,World Aquatics,1988,31
+Aquatics,Water Polo,WPO,World Aquatics,1988,1
+Archery,Archery,ARC,World Archery,1988,4
+Athletics,Athletics,ATH,World Athletics,1988,42
+Badminton,Badminton,BDM,BWF,1988,0
+Baseball?and Softball,Baseball,BSB,WBSC,1988,0
+Baseball?and Softball,Softball,SBL,WBSC,1988,0
+Basketball,3x3,BK3,FIBA,1988,0
+Basketball,Basketball,BKB,FIBA,1988,2
+Basque Pelota,Basque Pelota,PEL,FIPV,1988,0
+Boxing,Boxing,BOX,No body recognised AIBA/IBA,1988,12
+Breaking,Breaking,BKG,WDSF,1988,0
+Canoeing,Sprint,CSP,ICF,1988,12
+Canoeing,Slalom,CSL,ICF,1988,0
+Cricket,Cricket,CKT,ICC,1988,0
+Croquet,Croquet,CQT,WCF,1988,0
+Cycling,BMX Freestyle,BMF,UCI,1988,0
+Cycling,BMX Racing,BMX,UCI,1988,0
+Cycling,Mountain Bike,MTB,UCI,1988,0
+Cycling,Road,CRD,UCI,1988,3
+Cycling,Track,CTR,UCI,1988,6
+Equestrian,Dressage,EDR,FEI,1988,2
+Equestrian,Eventing,EVE,FEI,1988,2
+Equestrian,Jumping,EJP,FEI,1988,2
+Equestrian,Vaulting,EVL,FEI,1988,0
+Equestrian,Driving,EDV,FEI,1988,0
+Fencing,Fencing,FEN,FIE,1988,8
+Field hockey,Field hockey,HOC,FIH,1988,2
+Flag football,Flag football,AFB,IFAF,1988,0
+Football,Football,FBL,FIFA,1988,1
+Golf,Golf,GLF,IGF,1988,0
+Gymnastics,Artistic,GAR,FIG,1988,14
+Gymnastics,Rhythmic,GRY,FIG,1988,1
+Gymnastics,Trampoline,GTR,FIG,1988,0
+Handball,Indoor,HBL,IHF,1988,2
+Handball,Field,HBL,IHF,1988,0
+Jeu de Paume,Jeu de Paume,?,?,1988,0
+Judo,Judo,JUD,IJF,1988,7
+Karate,Karate,KTE,WKF,1988,0
+Lacrosse,Sixes,LAX,WL,1988,0
+Lacrosse,Field,LAX,WL,1988,0
+Modern Pentathlon,,MPN,UIPM,1988,2
+Polo,Polo,POL,FIP,1988,0
+Rackets,Rackets,RQT,?,1988,0
+Roque,Roque,?,?,1988,0
+Rowing,Coastal,ROC,World Rowing,1988,0
+Rowing,Rowing,ROW,World Rowing,1988,14
+Rugby,Sevens,RU7,World Rugby,1988,0
+Rugby,Union,RUG,World Rugby,1988,0
+Sailing,Sailing,SAL,World Sailing,1988,8
+Shooting,Shooting,SHO,ISSF,1988,13
+Skateboarding,Skateboarding,SKB,World Skate,1988,0
+Sport Climbing,Sport Climbing,CLB,IFSC,1988,0
+Squash,Squash,SQU,WSF,1988,0
+Surfing,Surfing,SRF,ISA,1988,0
+Table Tennis,Table Tennis,TTE,ITTF,1988,4
+Taekwondo,Taekwondo,TKW,World Taekwondo,1988,0
+Tennis,Tennis,TEN,ITF,1988,4
+Triathlon,Triathlon,TRI,World Triathlon,1988,0
+Tug of War,Tug of War,TOW,TWIF,1988,0
+Volleyball,Beach,VBV,FIVB,1988,0
+Volleyball,Indoor,VVO,FIVB,1988,2
+Water Motorsports,,PBT,UIM,1988,0
+Weightlifting,Weightlifting,WLF,IWF,1988,10
+Wrestling,Freestyle,WRF,UWW,1988,10
+Wrestling,Greco-Roman,WRG,UWW,1988,10
+Skating,Figure,FSK,ISU,1988,0
+Ice Hockey,Ice Hockey,IHO,IIHF,1988,0
+Aquatics,Artistic Swimming,SWA,World Aquatics,1992,2
+Aquatics,Diving,DIV,World Aquatics,1992,4
+Aquatics,Marathon Swimming,OWS,World Aquatics,1992,0
+Aquatics,Swimming,SWM,World Aquatics,1992,31
+Aquatics,Water Polo,WPO,World Aquatics,1992,1
+Archery,Archery,ARC,World Archery,1992,4
+Athletics,Athletics,ATH,World Athletics,1992,43
+Badminton,Badminton,BDM,BWF,1992,4
+Baseball?and Softball,Baseball,BSB,WBSC,1992,1
+Baseball?and Softball,Softball,SBL,WBSC,1992,0
+Basketball,3x3,BK3,FIBA,1992,0
+Basketball,Basketball,BKB,FIBA,1992,2
+Basque Pelota,Basque Pelota,PEL,FIPV,1992,0
+Boxing,Boxing,BOX,No body recognised AIBA/IBA,1992,12
+Breaking,Breaking,BKG,WDSF,1992,0
+Canoeing,Sprint,CSP,ICF,1992,12
+Canoeing,Slalom,CSL,ICF,1992,4
+Cricket,Cricket,CKT,ICC,1992,0
+Croquet,Croquet,CQT,WCF,1992,0
+Cycling,BMX Freestyle,BMF,UCI,1992,0
+Cycling,BMX Racing,BMX,UCI,1992,0
+Cycling,Mountain Bike,MTB,UCI,1992,0
+Cycling,Road,CRD,UCI,1992,3
+Cycling,Track,CTR,UCI,1992,7
+Equestrian,Dressage,EDR,FEI,1992,2
+Equestrian,Eventing,EVE,FEI,1992,2
+Equestrian,Jumping,EJP,FEI,1992,2
+Equestrian,Vaulting,EVL,FEI,1992,0
+Equestrian,Driving,EDV,FEI,1992,0
+Fencing,Fencing,FEN,FIE,1992,8
+Field hockey,Field hockey,HOC,FIH,1992,2
+Flag football,Flag football,AFB,IFAF,1992,0
+Football,Football,FBL,FIFA,1992,1
+Golf,Golf,GLF,IGF,1992,0
+Gymnastics,Artistic,GAR,FIG,1992,14
+Gymnastics,Rhythmic,GRY,FIG,1992,1
+Gymnastics,Trampoline,GTR,FIG,1992,0
+Handball,Indoor,HBL,IHF,1992,2
+Handball,Field,HBL,IHF,1992,0
+Jeu de Paume,Jeu de Paume,?,?,1992,0
+Judo,Judo,JUD,IJF,1992,14
+Karate,Karate,KTE,WKF,1992,0
+Lacrosse,Sixes,LAX,WL,1992,0
+Lacrosse,Field,LAX,WL,1992,0
+Modern Pentathlon,,MPN,UIPM,1992,2
+Polo,Polo,POL,FIP,1992,0
+Rackets,Rackets,RQT,?,1992,0
+Roque,Roque,?,?,1992,0
+Rowing,Coastal,ROC,World Rowing,1992,0
+Rowing,Rowing,ROW,World Rowing,1992,14
+Rugby,Sevens,RU7,World Rugby,1992,0
+Rugby,Union,RUG,World Rugby,1992,0
+Sailing,Sailing,SAL,World Sailing,1992,10
+Shooting,Shooting,SHO,ISSF,1992,13
+Skateboarding,Skateboarding,SKB,World Skate,1992,0
+Sport Climbing,Sport Climbing,CLB,IFSC,1992,0
+Squash,Squash,SQU,WSF,1992,0
+Surfing,Surfing,SRF,ISA,1992,0
+Table Tennis,Table Tennis,TTE,ITTF,1992,4
+Taekwondo,Taekwondo,TKW,World Taekwondo,1992,0
+Tennis,Tennis,TEN,ITF,1992,4
+Triathlon,Triathlon,TRI,World Triathlon,1992,0
+Tug of War,Tug of War,TOW,TWIF,1992,0
+Volleyball,Beach,VBV,FIVB,1992,0
+Volleyball,Indoor,VVO,FIVB,1992,2
+Water Motorsports,,PBT,UIM,1992,0
+Weightlifting,Weightlifting,WLF,IWF,1992,10
+Wrestling,Freestyle,WRF,UWW,1992,10
+Wrestling,Greco-Roman,WRG,UWW,1992,10
+Skating,Figure,FSK,ISU,1992,0
+Ice Hockey,Ice Hockey,IHO,IIHF,1992,0
+Aquatics,Artistic Swimming,SWA,World Aquatics,1996,1
+Aquatics,Diving,DIV,World Aquatics,1996,4
+Aquatics,Marathon Swimming,OWS,World Aquatics,1996,0
+Aquatics,Swimming,SWM,World Aquatics,1996,32
+Aquatics,Water Polo,WPO,World Aquatics,1996,1
+Archery,Archery,ARC,World Archery,1996,4
+Athletics,Athletics,ATH,World Athletics,1996,44
+Badminton,Badminton,BDM,BWF,1996,5
+Baseball?and Softball,Baseball,BSB,WBSC,1996,1
+Baseball?and Softball,Softball,SBL,WBSC,1996,1
+Basketball,3x3,BK3,FIBA,1996,0
+Basketball,Basketball,BKB,FIBA,1996,2
+Basque Pelota,Basque Pelota,PEL,FIPV,1996,0
+Boxing,Boxing,BOX,No body recognised AIBA/IBA,1996,12
+Breaking,Breaking,BKG,WDSF,1996,0
+Canoeing,Sprint,CSP,ICF,1996,12
+Canoeing,Slalom,CSL,ICF,1996,4
+Cricket,Cricket,CKT,ICC,1996,0
+Croquet,Croquet,CQT,WCF,1996,0
+Cycling,BMX Freestyle,BMF,UCI,1996,0
+Cycling,BMX Racing,BMX,UCI,1996,0
+Cycling,Mountain Bike,MTB,UCI,1996,2
+Cycling,Road,CRD,UCI,1996,4
+Cycling,Track,CTR,UCI,1996,8
+Equestrian,Dressage,EDR,FEI,1996,2
+Equestrian,Eventing,EVE,FEI,1996,2
+Equestrian,Jumping,EJP,FEI,1996,2
+Equestrian,Vaulting,EVL,FEI,1996,0
+Equestrian,Driving,EDV,FEI,1996,0
+Fencing,Fencing,FEN,FIE,1996,10
+Field hockey,Field hockey,HOC,FIH,1996,2
+Flag football,Flag football,AFB,IFAF,1996,0
+Football,Football,FBL,FIFA,1996,2
+Golf,Golf,GLF,IGF,1996,0
+Gymnastics,Artistic,GAR,FIG,1996,14
+Gymnastics,Rhythmic,GRY,FIG,1996,2
+Gymnastics,Trampoline,GTR,FIG,1996,0
+Handball,Indoor,HBL,IHF,1996,2
+Handball,Field,HBL,IHF,1996,0
+Jeu de Paume,Jeu de Paume,?,?,1996,0
+Judo,Judo,JUD,IJF,1996,14
+Karate,Karate,KTE,WKF,1996,0
+Lacrosse,Sixes,LAX,WL,1996,0
+Lacrosse,Field,LAX,WL,1996,0
+Modern Pentathlon,,MPN,UIPM,1996,1
+Polo,Polo,POL,FIP,1996,0
+Rackets,Rackets,RQT,?,1996,0
+Roque,Roque,?,?,1996,0
+Rowing,Coastal,ROC,World Rowing,1996,0
+Rowing,Rowing,ROW,World Rowing,1996,14
+Rugby,Sevens,RU7,World Rugby,1996,0
+Rugby,Union,RUG,World Rugby,1996,0
+Sailing,Sailing,SAL,World Sailing,1996,10
+Shooting,Shooting,SHO,ISSF,1996,15
+Skateboarding,Skateboarding,SKB,World Skate,1996,0
+Sport Climbing,Sport Climbing,CLB,IFSC,1996,0
+Squash,Squash,SQU,WSF,1996,0
+Surfing,Surfing,SRF,ISA,1996,0
+Table Tennis,Table Tennis,TTE,ITTF,1996,4
+Taekwondo,Taekwondo,TKW,World Taekwondo,1996,0
+Tennis,Tennis,TEN,ITF,1996,4
+Triathlon,Triathlon,TRI,World Triathlon,1996,0
+Tug of War,Tug of War,TOW,TWIF,1996,0
+Volleyball,Beach,VBV,FIVB,1996,2
+Volleyball,Indoor,VVO,FIVB,1996,2
+Water Motorsports,,PBT,UIM,1996,0
+Weightlifting,Weightlifting,WLF,IWF,1996,10
+Wrestling,Freestyle,WRF,UWW,1996,10
+Wrestling,Greco-Roman,WRG,UWW,1996,10
+Skating,Figure,FSK,ISU,1996,0
+Ice Hockey,Ice Hockey,IHO,IIHF,1996,0
+Aquatics,Artistic Swimming,SWA,World Aquatics,2000,2
+Aquatics,Diving,DIV,World Aquatics,2000,8
+Aquatics,Marathon Swimming,OWS,World Aquatics,2000,0
+Aquatics,Swimming,SWM,World Aquatics,2000,32
+Aquatics,Water Polo,WPO,World Aquatics,2000,2
+Archery,Archery,ARC,World Archery,2000,4
+Athletics,Athletics,ATH,World Athletics,2000,46
+Badminton,Badminton,BDM,BWF,2000,5
+Baseball?and Softball,Baseball,BSB,WBSC,2000,1
+Baseball?and Softball,Softball,SBL,WBSC,2000,1
+Basketball,3x3,BK3,FIBA,2000,0
+Basketball,Basketball,BKB,FIBA,2000,2
+Basque Pelota,Basque Pelota,PEL,FIPV,2000,0
+Boxing,Boxing,BOX,No body recognised AIBA/IBA,2000,12
+Breaking,Breaking,BKG,WDSF,2000,0
+Canoeing,Sprint,CSP,ICF,2000,12
+Canoeing,Slalom,CSL,ICF,2000,4
+Cricket,Cricket,CKT,ICC,2000,0
+Croquet,Croquet,CQT,WCF,2000,0
+Cycling,BMX Freestyle,BMF,UCI,2000,0
+Cycling,BMX Racing,BMX,UCI,2000,0
+Cycling,Mountain Bike,MTB,UCI,2000,2
+Cycling,Road,CRD,UCI,2000,4
+Cycling,Track,CTR,UCI,2000,12
+Equestrian,Dressage,EDR,FEI,2000,2
+Equestrian,Eventing,EVE,FEI,2000,2
+Equestrian,Jumping,EJP,FEI,2000,2
+Equestrian,Vaulting,EVL,FEI,2000,0
+Equestrian,Driving,EDV,FEI,2000,0
+Fencing,Fencing,FEN,FIE,2000,10
+Field hockey,Field hockey,HOC,FIH,2000,2
+Flag football,Flag football,AFB,IFAF,2000,0
+Football,Football,FBL,FIFA,2000,2
+Golf,Golf,GLF,IGF,2000,0
+Gymnastics,Artistic,GAR,FIG,2000,14
+Gymnastics,Rhythmic,GRY,FIG,2000,2
+Gymnastics,Trampoline,GTR,FIG,2000,2
+Handball,Indoor,HBL,IHF,2000,2
+Handball,Field,HBL,IHF,2000,0
+Jeu de Paume,Jeu de Paume,?,?,2000,0
+Judo,Judo,JUD,IJF,2000,14
+Karate,Karate,KTE,WKF,2000,0
+Lacrosse,Sixes,LAX,WL,2000,0
+Lacrosse,Field,LAX,WL,2000,0
+Modern Pentathlon,,MPN,UIPM,2000,2
+Polo,Polo,POL,FIP,2000,0
+Rackets,Rackets,RQT,?,2000,0
+Roque,Roque,?,?,2000,0
+Rowing,Coastal,ROC,World Rowing,2000,0
+Rowing,Rowing,ROW,World Rowing,2000,14
+Rugby,Sevens,RU7,World Rugby,2000,0
+Rugby,Union,RUG,World Rugby,2000,0
+Sailing,Sailing,SAL,World Sailing,2000,11
+Shooting,Shooting,SHO,ISSF,2000,17
+Skateboarding,Skateboarding,SKB,World Skate,2000,0
+Sport Climbing,Sport Climbing,CLB,IFSC,2000,0
+Squash,Squash,SQU,WSF,2000,0
+Surfing,Surfing,SRF,ISA,2000,0
+Table Tennis,Table Tennis,TTE,ITTF,2000,4
+Taekwondo,Taekwondo,TKW,World Taekwondo,2000,8
+Tennis,Tennis,TEN,ITF,2000,4
+Triathlon,Triathlon,TRI,World Triathlon,2000,2
+Tug of War,Tug of War,TOW,TWIF,2000,0
+Volleyball,Beach,VBV,FIVB,2000,2
+Volleyball,Indoor,VVO,FIVB,2000,2
+Water Motorsports,,PBT,UIM,2000,0
+Weightlifting,Weightlifting,WLF,IWF,2000,15
+Wrestling,Freestyle,WRF,UWW,2000,8
+Wrestling,Greco-Roman,WRG,UWW,2000,8
+Skating,Figure,FSK,ISU,2000,0
+Ice Hockey,Ice Hockey,IHO,IIHF,2000,0
+Aquatics,Artistic Swimming,SWA,World Aquatics,2004,2
+Aquatics,Diving,DIV,World Aquatics,2004,8
+Aquatics,Marathon Swimming,OWS,World Aquatics,2004,0
+Aquatics,Swimming,SWM,World Aquatics,2004,32
+Aquatics,Water Polo,WPO,World Aquatics,2004,2
+Archery,Archery,ARC,World Archery,2004,4
+Athletics,Athletics,ATH,World Athletics,2004,46
+Badminton,Badminton,BDM,BWF,2004,5
+Baseball?and Softball,Baseball,BSB,WBSC,2004,1
+Baseball?and Softball,Softball,SBL,WBSC,2004,1
+Basketball,3x3,BK3,FIBA,2004,0
+Basketball,Basketball,BKB,FIBA,2004,2
+Basque Pelota,Basque Pelota,PEL,FIPV,2004,0
+Boxing,Boxing,BOX,No body recognised AIBA/IBA,2004,11
+Breaking,Breaking,BKG,WDSF,2004,0
+Canoeing,Sprint,CSP,ICF,2004,12
+Canoeing,Slalom,CSL,ICF,2004,4
+Cricket,Cricket,CKT,ICC,2004,0
+Croquet,Croquet,CQT,WCF,2004,0
+Cycling,BMX Freestyle,BMF,UCI,2004,0
+Cycling,BMX Racing,BMX,UCI,2004,0
+Cycling,Mountain Bike,MTB,UCI,2004,2
+Cycling,Road,CRD,UCI,2004,4
+Cycling,Track,CTR,UCI,2004,12
+Equestrian,Dressage,EDR,FEI,2004,2
+Equestrian,Eventing,EVE,FEI,2004,2
+Equestrian,Jumping,EJP,FEI,2004,2
+Equestrian,Vaulting,EVL,FEI,2004,0
+Equestrian,Driving,EDV,FEI,2004,0
+Fencing,Fencing,FEN,FIE,2004,10
+Field hockey,Field hockey,HOC,FIH,2004,2
+Flag football,Flag football,AFB,IFAF,2004,0
+Football,Football,FBL,FIFA,2004,2
+Golf,Golf,GLF,IGF,2004,0
+Gymnastics,Artistic,GAR,FIG,2004,14
+Gymnastics,Rhythmic,GRY,FIG,2004,2
+Gymnastics,Trampoline,GTR,FIG,2004,2
+Handball,Indoor,HBL,IHF,2004,2
+Handball,Field,HBL,IHF,2004,0
+Jeu de Paume,Jeu de Paume,?,?,2004,0
+Judo,Judo,JUD,IJF,2004,14
+Karate,Karate,KTE,WKF,2004,0
+Lacrosse,Sixes,LAX,WL,2004,0
+Lacrosse,Field,LAX,WL,2004,0
+Modern Pentathlon,,MPN,UIPM,2004,2
+Polo,Polo,POL,FIP,2004,0
+Rackets,Rackets,RQT,?,2004,0
+Roque,Roque,?,?,2004,0
+Rowing,Coastal,ROC,World Rowing,2004,0
+Rowing,Rowing,ROW,World Rowing,2004,14
+Rugby,Sevens,RU7,World Rugby,2004,0
+Rugby,Union,RUG,World Rugby,2004,0
+Sailing,Sailing,SAL,World Sailing,2004,11
+Shooting,Shooting,SHO,ISSF,2004,17
+Skateboarding,Skateboarding,SKB,World Skate,2004,0
+Sport Climbing,Sport Climbing,CLB,IFSC,2004,0
+Squash,Squash,SQU,WSF,2004,0
+Surfing,Surfing,SRF,ISA,2004,0
+Table Tennis,Table Tennis,TTE,ITTF,2004,4
+Taekwondo,Taekwondo,TKW,World Taekwondo,2004,8
+Tennis,Tennis,TEN,ITF,2004,4
+Triathlon,Triathlon,TRI,World Triathlon,2004,2
+Tug of War,Tug of War,TOW,TWIF,2004,0
+Volleyball,Beach,VBV,FIVB,2004,2
+Volleyball,Indoor,VVO,FIVB,2004,2
+Water Motorsports,,PBT,UIM,2004,0
+Weightlifting,Weightlifting,WLF,IWF,2004,15
+Wrestling,Freestyle,WRF,UWW,2004,11
+Wrestling,Greco-Roman,WRG,UWW,2004,7
+Skating,Figure,FSK,ISU,2004,0
+Ice Hockey,Ice Hockey,IHO,IIHF,2004,0
+Aquatics,Artistic Swimming,SWA,World Aquatics,2008,2
+Aquatics,Diving,DIV,World Aquatics,2008,8
+Aquatics,Marathon Swimming,OWS,World Aquatics,2008,2
+Aquatics,Swimming,SWM,World Aquatics,2008,32
+Aquatics,Water Polo,WPO,World Aquatics,2008,2
+Archery,Archery,ARC,World Archery,2008,4
+Athletics,Athletics,ATH,World Athletics,2008,47
+Badminton,Badminton,BDM,BWF,2008,5
+Baseball?and Softball,Baseball,BSB,WBSC,2008,1
+Baseball?and Softball,Softball,SBL,WBSC,2008,1
+Basketball,3x3,BK3,FIBA,2008,0
+Basketball,Basketball,BKB,FIBA,2008,2
+Basque Pelota,Basque Pelota,PEL,FIPV,2008,0
+Boxing,Boxing,BOX,No body recognised AIBA/IBA,2008,11
+Breaking,Breaking,BKG,WDSF,2008,0
+Canoeing,Sprint,CSP,ICF,2008,12
+Canoeing,Slalom,CSL,ICF,2008,4
+Cricket,Cricket,CKT,ICC,2008,0
+Croquet,Croquet,CQT,WCF,2008,0
+Cycling,BMX Freestyle,BMF,UCI,2008,0
+Cycling,BMX Racing,BMX,UCI,2008,2
+Cycling,Mountain Bike,MTB,UCI,2008,2
+Cycling,Road,CRD,UCI,2008,4
+Cycling,Track,CTR,UCI,2008,10
+Equestrian,Dressage,EDR,FEI,2008,2
+Equestrian,Eventing,EVE,FEI,2008,2
+Equestrian,Jumping,EJP,FEI,2008,2
+Equestrian,Vaulting,EVL,FEI,2008,0
+Equestrian,Driving,EDV,FEI,2008,0
+Fencing,Fencing,FEN,FIE,2008,10
+Field hockey,Field hockey,HOC,FIH,2008,2
+Flag football,Flag football,AFB,IFAF,2008,0
+Football,Football,FBL,FIFA,2008,2
+Golf,Golf,GLF,IGF,2008,0
+Gymnastics,Artistic,GAR,FIG,2008,14
+Gymnastics,Rhythmic,GRY,FIG,2008,2
+Gymnastics,Trampoline,GTR,FIG,2008,2
+Handball,Indoor,HBL,IHF,2008,2
+Handball,Field,HBL,IHF,2008,0
+Jeu de Paume,Jeu de Paume,?,?,2008,0
+Judo,Judo,JUD,IJF,2008,14
+Karate,Karate,KTE,WKF,2008,0
+Lacrosse,Sixes,LAX,WL,2008,0
+Lacrosse,Field,LAX,WL,2008,0
+Modern Pentathlon,,MPN,UIPM,2008,2
+Polo,Polo,POL,FIP,2008,0
+Rackets,Rackets,RQT,?,2008,0
+Roque,Roque,?,?,2008,0
+Rowing,Coastal,ROC,World Rowing,2008,0
+Rowing,Rowing,ROW,World Rowing,2008,14
+Rugby,Sevens,RU7,World Rugby,2008,0
+Rugby,Union,RUG,World Rugby,2008,0
+Sailing,Sailing,SAL,World Sailing,2008,11
+Shooting,Shooting,SHO,ISSF,2008,15
+Skateboarding,Skateboarding,SKB,World Skate,2008,0
+Sport Climbing,Sport Climbing,CLB,IFSC,2008,0
+Squash,Squash,SQU,WSF,2008,0
+Surfing,Surfing,SRF,ISA,2008,0
+Table Tennis,Table Tennis,TTE,ITTF,2008,4
+Taekwondo,Taekwondo,TKW,World Taekwondo,2008,8
+Tennis,Tennis,TEN,ITF,2008,4
+Triathlon,Triathlon,TRI,World Triathlon,2008,2
+Tug of War,Tug of War,TOW,TWIF,2008,0
+Volleyball,Beach,VBV,FIVB,2008,2
+Volleyball,Indoor,VVO,FIVB,2008,2
+Water Motorsports,,PBT,UIM,2008,0
+Weightlifting,Weightlifting,WLF,IWF,2008,15
+Wrestling,Freestyle,WRF,UWW,2008,11
+Wrestling,Greco-Roman,WRG,UWW,2008,7
+Skating,Figure,FSK,ISU,2008,0
+Ice Hockey,Ice Hockey,IHO,IIHF,2008,0
+Aquatics,Artistic Swimming,SWA,World Aquatics,2012,2
+Aquatics,Diving,DIV,World Aquatics,2012,8
+Aquatics,Marathon Swimming,OWS,World Aquatics,2012,2
+Aquatics,Swimming,SWM,World Aquatics,2012,32
+Aquatics,Water Polo,WPO,World Aquatics,2012,2
+Archery,Archery,ARC,World Archery,2012,4
+Athletics,Athletics,ATH,World Athletics,2012,47
+Badminton,Badminton,BDM,BWF,2012,5
+Baseball?and Softball,Baseball,BSB,WBSC,2012,0
+Baseball?and Softball,Softball,SBL,WBSC,2012,0
+Basketball,3x3,BK3,FIBA,2012,0
+Basketball,Basketball,BKB,FIBA,2012,2
+Basque Pelota,Basque Pelota,PEL,FIPV,2012,0
+Boxing,Boxing,BOX,No body recognised AIBA/IBA,2012,13
+Breaking,Breaking,BKG,WDSF,2012,0
+Canoeing,Sprint,CSP,ICF,2012,12
+Canoeing,Slalom,CSL,ICF,2012,4
+Cricket,Cricket,CKT,ICC,2012,0
+Croquet,Croquet,CQT,WCF,2012,0
+Cycling,BMX Freestyle,BMF,UCI,2012,0
+Cycling,BMX Racing,BMX,UCI,2012,2
+Cycling,Mountain Bike,MTB,UCI,2012,2
+Cycling,Road,CRD,UCI,2012,4
+Cycling,Track,CTR,UCI,2012,10
+Equestrian,Dressage,EDR,FEI,2012,2
+Equestrian,Eventing,EVE,FEI,2012,2
+Equestrian,Jumping,EJP,FEI,2012,2
+Equestrian,Vaulting,EVL,FEI,2012,0
+Equestrian,Driving,EDV,FEI,2012,0
+Fencing,Fencing,FEN,FIE,2012,10
+Field hockey,Field hockey,HOC,FIH,2012,2
+Flag football,Flag football,AFB,IFAF,2012,0
+Football,Football,FBL,FIFA,2012,2
+Golf,Golf,GLF,IGF,2012,0
+Gymnastics,Artistic,GAR,FIG,2012,14
+Gymnastics,Rhythmic,GRY,FIG,2012,2
+Gymnastics,Trampoline,GTR,FIG,2012,2
+Handball,Indoor,HBL,IHF,2012,2
+Handball,Field,HBL,IHF,2012,0
+Jeu de Paume,Jeu de Paume,?,?,2012,0
+Judo,Judo,JUD,IJF,2012,14
+Karate,Karate,KTE,WKF,2012,0
+Lacrosse,Sixes,LAX,WL,2012,0
+Lacrosse,Field,LAX,WL,2012,0
+Modern Pentathlon,,MPN,UIPM,2012,2
+Polo,Polo,POL,FIP,2012,0
+Rackets,Rackets,RQT,?,2012,0
+Roque,Roque,?,?,2012,0
+Rowing,Coastal,ROC,World Rowing,2012,0
+Rowing,Rowing,ROW,World Rowing,2012,14
+Rugby,Sevens,RU7,World Rugby,2012,0
+Rugby,Union,RUG,World Rugby,2012,0
+Sailing,Sailing,SAL,World Sailing,2012,10
+Shooting,Shooting,SHO,ISSF,2012,15
+Skateboarding,Skateboarding,SKB,World Skate,2012,0
+Sport Climbing,Sport Climbing,CLB,IFSC,2012,0
+Squash,Squash,SQU,WSF,2012,0
+Surfing,Surfing,SRF,ISA,2012,0
+Table Tennis,Table Tennis,TTE,ITTF,2012,4
+Taekwondo,Taekwondo,TKW,World Taekwondo,2012,8
+Tennis,Tennis,TEN,ITF,2012,5
+Triathlon,Triathlon,TRI,World Triathlon,2012,2
+Tug of War,Tug of War,TOW,TWIF,2012,0
+Volleyball,Beach,VBV,FIVB,2012,2
+Volleyball,Indoor,VVO,FIVB,2012,2
+Water Motorsports,,PBT,UIM,2012,0
+Weightlifting,Weightlifting,WLF,IWF,2012,15
+Wrestling,Freestyle,WRF,UWW,2012,11
+Wrestling,Greco-Roman,WRG,UWW,2012,7
+Skating,Figure,FSK,ISU,2012,0
+Ice Hockey,Ice Hockey,IHO,IIHF,2012,0
+Aquatics,Artistic Swimming,SWA,World Aquatics,2016,2
+Aquatics,Diving,DIV,World Aquatics,2016,8
+Aquatics,Marathon Swimming,OWS,World Aquatics,2016,2
+Aquatics,Swimming,SWM,World Aquatics,2016,32
+Aquatics,Water Polo,WPO,World Aquatics,2016,2
+Archery,Archery,ARC,World Archery,2016,4
+Athletics,Athletics,ATH,World Athletics,2016,47
+Badminton,Badminton,BDM,BWF,2016,5
+Baseball?and Softball,Baseball,BSB,WBSC,2016,0
+Baseball?and Softball,Softball,SBL,WBSC,2016,0
+Basketball,3x3,BK3,FIBA,2016,0
+Basketball,Basketball,BKB,FIBA,2016,2
+Basque Pelota,Basque Pelota,PEL,FIPV,2016,0
+Boxing,Boxing,BOX,No body recognised AIBA/IBA,2016,13
+Breaking,Breaking,BKG,WDSF,2016,0
+Canoeing,Sprint,CSP,ICF,2016,12
+Canoeing,Slalom,CSL,ICF,2016,4
+Cricket,Cricket,CKT,ICC,2016,0
+Croquet,Croquet,CQT,WCF,2016,0
+Cycling,BMX Freestyle,BMF,UCI,2016,0
+Cycling,BMX Racing,BMX,UCI,2016,2
+Cycling,Mountain Bike,MTB,UCI,2016,2
+Cycling,Road,CRD,UCI,2016,4
+Cycling,Track,CTR,UCI,2016,10
+Equestrian,Dressage,EDR,FEI,2016,2
+Equestrian,Eventing,EVE,FEI,2016,2
+Equestrian,Jumping,EJP,FEI,2016,2
+Equestrian,Vaulting,EVL,FEI,2016,0
+Equestrian,Driving,EDV,FEI,2016,0
+Fencing,Fencing,FEN,FIE,2016,10
+Field hockey,Field hockey,HOC,FIH,2016,2
+Flag football,Flag football,AFB,IFAF,2016,0
+Football,Football,FBL,FIFA,2016,2
+Golf,Golf,GLF,IGF,2016,2
+Gymnastics,Artistic,GAR,FIG,2016,14
+Gymnastics,Rhythmic,GRY,FIG,2016,2
+Gymnastics,Trampoline,GTR,FIG,2016,2
+Handball,Indoor,HBL,IHF,2016,2
+Handball,Field,HBL,IHF,2016,0
+Jeu de Paume,Jeu de Paume,?,?,2016,0
+Judo,Judo,JUD,IJF,2016,14
+Karate,Karate,KTE,WKF,2016,0
+Lacrosse,Sixes,LAX,WL,2016,0
+Lacrosse,Field,LAX,WL,2016,0
+Modern Pentathlon,,MPN,UIPM,2016,2
+Polo,Polo,POL,FIP,2016,0
+Rackets,Rackets,RQT,?,2016,0
+Roque,Roque,?,?,2016,0
+Rowing,Coastal,ROC,World Rowing,2016,0
+Rowing,Rowing,ROW,World Rowing,2016,14
+Rugby,Sevens,RU7,World Rugby,2016,2
+Rugby,Union,RUG,World Rugby,2016,0
+Sailing,Sailing,SAL,World Sailing,2016,10
+Shooting,Shooting,SHO,ISSF,2016,15
+Skateboarding,Skateboarding,SKB,World Skate,2016,0
+Sport Climbing,Sport Climbing,CLB,IFSC,2016,0
+Squash,Squash,SQU,WSF,2016,0
+Surfing,Surfing,SRF,ISA,2016,0
+Table Tennis,Table Tennis,TTE,ITTF,2016,4
+Taekwondo,Taekwondo,TKW,World Taekwondo,2016,8
+Tennis,Tennis,TEN,ITF,2016,5
+Triathlon,Triathlon,TRI,World Triathlon,2016,2
+Tug of War,Tug of War,TOW,TWIF,2016,0
+Volleyball,Beach,VBV,FIVB,2016,2
+Volleyball,Indoor,VVO,FIVB,2016,2
+Water Motorsports,,PBT,UIM,2016,0
+Weightlifting,Weightlifting,WLF,IWF,2016,15
+Wrestling,Freestyle,WRF,UWW,2016,12
+Wrestling,Greco-Roman,WRG,UWW,2016,6
+Skating,Figure,FSK,ISU,2016,0
+Ice Hockey,Ice Hockey,IHO,IIHF,2016,0
+Aquatics,Artistic Swimming,SWA,World Aquatics,2020,2
+Aquatics,Diving,DIV,World Aquatics,2020,8
+Aquatics,Marathon Swimming,OWS,World Aquatics,2020,2
+Aquatics,Swimming,SWM,World Aquatics,2020,35
+Aquatics,Water Polo,WPO,World Aquatics,2020,2
+Archery,Archery,ARC,World Archery,2020,5
+Athletics,Athletics,ATH,World Athletics,2020,48
+Badminton,Badminton,BDM,BWF,2020,5
+Baseball?and Softball,Baseball,BSB,WBSC,2020,1
+Baseball?and Softball,Softball,SBL,WBSC,2020,1
+Basketball,3x3,BK3,FIBA,2020,2
+Basketball,Basketball,BKB,FIBA,2020,2
+Basque Pelota,Basque Pelota,PEL,FIPV,2020,0
+Boxing,Boxing,BOX,No body recognised AIBA/IBA,2020,13
+Breaking,Breaking,BKG,WDSF,2020,0
+Canoeing,Sprint,CSP,ICF,2020,12
+Canoeing,Slalom,CSL,ICF,2020,4
+Cricket,Cricket,CKT,ICC,2020,0
+Croquet,Croquet,CQT,WCF,2020,0
+Cycling,BMX Freestyle,BMF,UCI,2020,2
+Cycling,BMX Racing,BMX,UCI,2020,2
+Cycling,Mountain Bike,MTB,UCI,2020,2
+Cycling,Road,CRD,UCI,2020,4
+Cycling,Track,CTR,UCI,2020,12
+Equestrian,Dressage,EDR,FEI,2020,2
+Equestrian,Eventing,EVE,FEI,2020,2
+Equestrian,Jumping,EJP,FEI,2020,2
+Equestrian,Vaulting,EVL,FEI,2020,0
+Equestrian,Driving,EDV,FEI,2020,0
+Fencing,Fencing,FEN,FIE,2020,12
+Field hockey,Field hockey,HOC,FIH,2020,2
+Flag football,Flag football,AFB,IFAF,2020,0
+Football,Football,FBL,FIFA,2020,2
+Golf,Golf,GLF,IGF,2020,2
+Gymnastics,Artistic,GAR,FIG,2020,14
+Gymnastics,Rhythmic,GRY,FIG,2020,2
+Gymnastics,Trampoline,GTR,FIG,2020,2
+Handball,Indoor,HBL,IHF,2020,2
+Handball,Field,HBL,IHF,2020,0
+Jeu de Paume,Jeu de Paume,?,?,2020,0
+Judo,Judo,JUD,IJF,2020,15
+Karate,Karate,KTE,WKF,2020,8
+Lacrosse,Sixes,LAX,WL,2020,0
+Lacrosse,Field,LAX,WL,2020,0
+Modern Pentathlon,,MPN,UIPM,2020,2
+Polo,Polo,POL,FIP,2020,0
+Rackets,Rackets,RQT,?,2020,0
+Roque,Roque,?,?,2020,0
+Rowing,Coastal,ROC,World Rowing,2020,0
+Rowing,Rowing,ROW,World Rowing,2020,14
+Rugby,Sevens,RU7,World Rugby,2020,2
+Rugby,Union,RUG,World Rugby,2020,0
+Sailing,Sailing,SAL,World Sailing,2020,10
+Shooting,Shooting,SHO,ISSF,2020,15
+Skateboarding,Skateboarding,SKB,World Skate,2020,4
+Sport Climbing,Sport Climbing,CLB,IFSC,2020,2
+Squash,Squash,SQU,WSF,2020,0
+Surfing,Surfing,SRF,ISA,2020,2
+Table Tennis,Table Tennis,TTE,ITTF,2020,5
+Taekwondo,Taekwondo,TKW,World Taekwondo,2020,8
+Tennis,Tennis,TEN,ITF,2020,5
+Triathlon,Triathlon,TRI,World Triathlon,2020,3
+Tug of War,Tug of War,TOW,TWIF,2020,0
+Volleyball,Beach,VBV,FIVB,2020,2
+Volleyball,Indoor,VVO,FIVB,2020,2
+Water Motorsports,,PBT,UIM,2020,0
+Weightlifting,Weightlifting,WLF,IWF,2020,14
+Wrestling,Freestyle,WRF,UWW,2020,12
+Wrestling,Greco-Roman,WRG,UWW,2020,6
+Skating,Figure,FSK,ISU,2020,0
+Ice Hockey,Ice Hockey,IHO,IIHF,2020,0
+Aquatics,Artistic Swimming,SWA,World Aquatics,2024,2
+Aquatics,Diving,DIV,World Aquatics,2024,8
+Aquatics,Marathon Swimming,OWS,World Aquatics,2024,2
+Aquatics,Swimming,SWM,World Aquatics,2024,35
+Aquatics,Water Polo,WPO,World Aquatics,2024,2
+Archery,Archery,ARC,World Archery,2024,5
+Athletics,Athletics,ATH,World Athletics,2024,48
+Badminton,Badminton,BDM,BWF,2024,5
+Baseball?and Softball,Baseball,BSB,WBSC,2024,0
+Baseball?and Softball,Softball,SBL,WBSC,2024,0
+Basketball,3x3,BK3,FIBA,2024,2
+Basketball,Basketball,BKB,FIBA,2024,2
+Basque Pelota,Basque Pelota,PEL,FIPV,2024,0
+Boxing,Boxing,BOX,No body recognised AIBA/IBA,2024,13
+Breaking,Breaking,BKG,WDSF,2024,2
+Canoeing,Sprint,CSP,ICF,2024,10
+Canoeing,Slalom,CSL,ICF,2024,6
+Cricket,Cricket,CKT,ICC,2024,0
+Croquet,Croquet,CQT,WCF,2024,0
+Cycling,BMX Freestyle,BMF,UCI,2024,2
+Cycling,BMX Racing,BMX,UCI,2024,2
+Cycling,Mountain Bike,MTB,UCI,2024,2
+Cycling,Road,CRD,UCI,2024,4
+Cycling,Track,CTR,UCI,2024,12
+Equestrian,Dressage,EDR,FEI,2024,2
+Equestrian,Eventing,EVE,FEI,2024,2
+Equestrian,Jumping,EJP,FEI,2024,2
+Equestrian,Vaulting,EVL,FEI,2024,0
+Equestrian,Driving,EDV,FEI,2024,0
+Fencing,Fencing,FEN,FIE,2024,12
+Field hockey,Field hockey,HOC,FIH,2024,2
+Flag football,Flag football,AFB,IFAF,2024,0
+Football,Football,FBL,FIFA,2024,2
+Golf,Golf,GLF,IGF,2024,2
+Gymnastics,Artistic,GAR,FIG,2024,14
+Gymnastics,Rhythmic,GRY,FIG,2024,2
+Gymnastics,Trampoline,GTR,FIG,2024,2
+Handball,Indoor,HBL,IHF,2024,2
+Handball,Field,HBL,IHF,2024,0
+Jeu de Paume,Jeu de Paume,?,?,2024,0
+Judo,Judo,JUD,IJF,2024,15
+Karate,Karate,KTE,WKF,2024,0
+Lacrosse,Sixes,LAX,WL,2024,0
+Lacrosse,Field,LAX,WL,2024,0
+Modern Pentathlon,,MPN,UIPM,2024,2
+Polo,Polo,POL,FIP,2024,0
+Rackets,Rackets,RQT,?,2024,0
+Roque,Roque,?,?,2024,0
+Rowing,Coastal,ROC,World Rowing,2024,0
+Rowing,Rowing,ROW,World Rowing,2024,14
+Rugby,Sevens,RU7,World Rugby,2024,2
+Rugby,Union,RUG,World Rugby,2024,0
+Sailing,Sailing,SAL,World Sailing,2024,10
+Shooting,Shooting,SHO,ISSF,2024,15
+Skateboarding,Skateboarding,SKB,World Skate,2024,4
+Sport Climbing,Sport Climbing,CLB,IFSC,2024,4
+Squash,Squash,SQU,WSF,2024,0
+Surfing,Surfing,SRF,ISA,2024,2
+Table Tennis,Table Tennis,TTE,ITTF,2024,5
+Taekwondo,Taekwondo,TKW,World Taekwondo,2024,8
+Tennis,Tennis,TEN,ITF,2024,5
+Triathlon,Triathlon,TRI,World Triathlon,2024,3
+Tug of War,Tug of War,TOW,TWIF,2024,0
+Volleyball,Beach,VBV,FIVB,2024,2
+Volleyball,Indoor,VVO,FIVB,2024,2
+Water Motorsports,,PBT,UIM,2024,0
+Weightlifting,Weightlifting,WLF,IWF,2024,10
+Wrestling,Freestyle,WRF,UWW,2024,12
+Wrestling,Greco-Roman,WRG,UWW,2024,6
+Skating,Figure,FSK,ISU,2024,0
+Ice Hockey,Ice Hockey,IHO,IIHF,2024,0
